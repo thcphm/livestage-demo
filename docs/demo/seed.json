@@ -1,0 +1,4935 @@
+{
+ "artists": [
+  {
+   "id": "a1",
+   "region": "vn",
+   "name": "Lam Thảo Vy",
+   "kind": {
+    "vi": "Solo",
+    "en": "Solo"
+   },
+   "category": "singer",
+   "genres": [
+    "Pop",
+    "Ballad",
+    "Nhạc Trịnh"
+   ],
+   "city": "hcm",
+   "area": "region",
+   "hue": 350,
+   "rating": 4.9,
+   "reviewsCount": 86,
+   "bookings": 214,
+   "top": true,
+   "verified": true,
+   "response": {
+    "vi": "< 1 giờ",
+    "en": "< 1 hr"
+   },
+   "priceMin": 3000000,
+   "priceMax": 8000000,
+   "fee": 3500000,
+   "joined": 2021,
+   "bio": {
+    "vi": "Giọng nữ trầm ấm, 8 năm hát live tại lounge, nhà hàng và tiệc cưới ở TP.HCM. Hát cùng beat chất lượng cao hoặc ban nhạc 3 người.",
+    "en": "Warm alto voice with 8 years of live shows at lounges, restaurants and weddings in Saigon. Performs with backing tracks or a 3-piece band."
+   },
+   "usp": {
+    "vi": "Đổi set ngay trong đêm theo không khí khán phòng; hơn 300 bài ballad, pop và nhạc Trịnh.",
+    "en": "Reads the room and changes the set on the fly; 300+ ballads, pop songs and Trinh Cong Son classics."
+   },
+   "services": [
+    "restaurant",
+    "bar",
+    "wedding",
+    "corporate"
+   ],
+   "packages": [
+    {
+     "name": {
+      "vi": "Set acoustic",
+      "en": "Acoustic set"
+     },
+     "dur": {
+      "vi": "60 phút · 12–14 bài",
+      "en": "60 min · 12–14 songs"
+     },
+     "from": 3000000
+    },
+    {
+     "name": {
+      "vi": "Đêm nhạc 2 set",
+      "en": "Two-set night"
+     },
+     "dur": {
+      "vi": "2 × 60 phút",
+      "en": "2 × 60 min"
+     },
+     "from": 5500000
+    },
+    {
+     "name": {
+      "vi": "Tiệc cưới trọn gói",
+      "en": "Wedding package"
+     },
+     "dur": {
+      "vi": "3 giờ, kèm ban nhạc 3 người",
+      "en": "3 hrs with 3-piece band"
+     },
+     "from": 8000000
+    }
+   ],
+   "media": [
+    {
+     "k": "video",
+     "t": "Live tại rooftop Quận 1",
+     "len": "3:42"
+    },
+    {
+     "k": "audio",
+     "t": "Ballad medley",
+     "len": "4:10"
+    },
+    {
+     "k": "photo",
+     "t": "Tiệc cưới tại Riverside",
+     "len": ""
+    },
+    {
+     "k": "video",
+     "t": "Diễm xưa – cover",
+     "len": "5:02"
+    }
+   ],
+   "social": {
+    "fb": "facebook.com/lamthaovy.live",
+    "ig": "@lamthaovy.live",
+    "tt": "@thaovy.sings",
+    "yt": "Lam Thảo Vy Official"
+   },
+   "phone": "0909 318 112",
+   "email": "thaovy@demo.com",
+   "payAccount": "Vietcombank · 0071 0004 821",
+   "internalNote": "Giảm 10% cho khách đặt từ 4 show/tháng.",
+   "busy": [
+    "2026-11-03",
+    "2026-11-10",
+    "2026-11-17"
+   ]
+  },
+  {
+   "id": "a2",
+   "region": "vn",
+   "name": "Saigon Rooftop Band",
+   "kind": {
+    "vi": "Nhóm 5 người",
+    "en": "5-piece band"
+   },
+   "category": "band",
+   "genres": [
+    "Cover",
+    "Pop",
+    "Funk"
+   ],
+   "city": "hcm",
+   "area": "region",
+   "hue": 22,
+   "rating": 4.8,
+   "reviewsCount": 52,
+   "bookings": 131,
+   "top": true,
+   "verified": true,
+   "response": {
+    "vi": "2 giờ",
+    "en": "2 hrs"
+   },
+   "priceMin": 8000000,
+   "priceMax": 25000000,
+   "fee": 9000000,
+   "joined": 2019,
+   "bio": {
+    "vi": "Ban nhạc cover 5 thành viên: vocal nam nữ, guitar, bass, trống. Chơi từ pop Việt, US-UK đến funk và disco.",
+    "en": "Five-piece cover band with male and female vocals, guitar, bass and drums. Vietnamese pop, US-UK hits, funk and disco."
+   },
+   "usp": {
+    "vi": "Tự mang dàn âm thanh 2kW và ánh sáng cơ bản cho sự kiện dưới 200 khách.",
+    "en": "Brings its own 2kW PA and basic lighting for events under 200 guests."
+   },
+   "services": [
+    "bar",
+    "wedding",
+    "corporate",
+    "opening"
+   ],
+   "packages": [
+    {
+     "name": {
+      "vi": "Set bar",
+      "en": "Bar set"
+     },
+     "dur": {
+      "vi": "2 × 45 phút",
+      "en": "2 × 45 min"
+     },
+     "from": 8000000
+    },
+    {
+     "name": {
+      "vi": "Event công ty",
+      "en": "Corporate event"
+     },
+     "dur": {
+      "vi": "3 giờ, kèm âm thanh",
+      "en": "3 hrs incl. PA"
+     },
+     "from": 15000000
+    },
+    {
+     "name": {
+      "vi": "Tiệc cưới full band",
+      "en": "Full-band wedding"
+     },
+     "dur": {
+      "vi": "4 giờ, kèm âm thanh ánh sáng",
+      "en": "4 hrs incl. sound & lights"
+     },
+     "from": 25000000
+    }
+   ],
+   "media": [
+    {
+     "k": "video",
+     "t": "Year End Party 2025",
+     "len": "4:20"
+    },
+    {
+     "k": "video",
+     "t": "Funk medley",
+     "len": "6:11"
+    },
+    {
+     "k": "photo",
+     "t": "Khai trương tại Thảo Điền",
+     "len": ""
+    },
+    {
+     "k": "audio",
+     "t": "September – cover",
+     "len": "3:55"
+    }
+   ],
+   "social": {
+    "fb": "facebook.com/saigonrooftopband",
+    "ig": "@saigonrooftop",
+    "tt": "",
+    "yt": "Saigon Rooftop Band"
+   },
+   "phone": "0938 220 517",
+   "email": "rooftop@demo.com",
+   "payAccount": "ACB · 2190 7788 01",
+   "internalNote": "Cần xe tải nhỏ chở thiết bị, báo trước 3 ngày.",
+   "busy": [
+    "2026-11-01",
+    "2026-11-15",
+    "2026-11-21"
+   ]
+  },
+  {
+   "id": "a3",
+   "region": "vn",
+   "name": "DJ Kairo",
+   "kind": {
+    "vi": "Solo",
+    "en": "Solo"
+   },
+   "category": "dj",
+   "genres": [
+    "EDM",
+    "House",
+    "Vinahouse"
+   ],
+   "city": "hcm",
+   "area": "intl",
+   "hue": 268,
+   "rating": 4.7,
+   "reviewsCount": 41,
+   "bookings": 160,
+   "top": false,
+   "verified": true,
+   "response": {
+    "vi": "1 giờ",
+    "en": "1 hr"
+   },
+   "priceMin": 4000000,
+   "priceMax": 15000000,
+   "fee": 4000000,
+   "joined": 2020,
+   "bio": {
+    "vi": "DJ resident tại nhiều club Quận 1, từng chơi ở Bangkok và Bali. Set nhạc theo chủ đề, đọc đám đông tốt.",
+    "en": "Resident DJ at District 1 clubs, has played Bangkok and Bali. Themed sets and great crowd reading."
+   },
+   "usp": {
+    "vi": "Có MC song ngữ Việt – Anh đi kèm khi cần.",
+    "en": "Can bring a bilingual Vietnamese–English MC."
+   },
+   "services": [
+    "bar",
+    "birthday",
+    "corporate",
+    "opening"
+   ],
+   "packages": [
+    {
+     "name": {
+      "vi": "Set club",
+      "en": "Club set"
+     },
+     "dur": {
+      "vi": "2 giờ",
+      "en": "2 hrs"
+     },
+     "from": 4000000
+    },
+    {
+     "name": {
+      "vi": "Tiệc riêng",
+      "en": "Private party"
+     },
+     "dur": {
+      "vi": "3 giờ, kèm loa",
+      "en": "3 hrs incl. speakers"
+     },
+     "from": 8000000
+    }
+   ],
+   "media": [
+    {
+     "k": "audio",
+     "t": "Mix tháng 9 – House",
+     "len": "58:00"
+    },
+    {
+     "k": "video",
+     "t": "Halloween tại Mộc Lan",
+     "len": "2:30"
+    },
+    {
+     "k": "photo",
+     "t": "Sân khấu Bangkok 2025",
+     "len": ""
+    }
+   ],
+   "social": {
+    "fb": "facebook.com/djkairo",
+    "ig": "@dj.kairo",
+    "tt": "@kairo.mix",
+    "yt": ""
+   },
+   "phone": "0912 506 330",
+   "email": "kairo@demo.com",
+   "payAccount": "Techcombank · 1903 5566 702",
+   "internalNote": "",
+   "busy": [
+    "2026-11-06",
+    "2026-11-13"
+   ]
+  },
+  {
+   "id": "a4",
+   "region": "vn",
+   "name": "Bảo Nam Acoustic",
+   "kind": {
+    "vi": "Song ca",
+    "en": "Duo"
+   },
+   "category": "acoustic",
+   "genres": [
+    "Acoustic",
+    "Indie",
+    "Nhạc Trịnh"
+   ],
+   "city": "hn",
+   "area": "region",
+   "hue": 150,
+   "rating": 4.8,
+   "reviewsCount": 63,
+   "bookings": 188,
+   "top": true,
+   "verified": false,
+   "response": {
+    "vi": "3 giờ",
+    "en": "3 hrs"
+   },
+   "priceMin": 2500000,
+   "priceMax": 6000000,
+   "fee": 2500000,
+   "joined": 2022,
+   "bio": {
+    "vi": "Song ca guitar mộc, chuyên quán cà phê và tiệc nhỏ. Phong cách nhẹ nhàng, ấm áp, dễ tương tác với khách.",
+    "en": "Acoustic guitar duo for cafés and small parties. Gentle, warm and great with audiences."
+   },
+   "usp": {
+    "vi": "Nhận hát theo yêu cầu tại chỗ, có sổ bài cho khách chọn.",
+    "en": "Takes requests on the spot with a songbook for guests."
+   },
+   "services": [
+    "restaurant",
+    "birthday",
+    "wedding"
+   ],
+   "packages": [
+    {
+     "name": {
+      "vi": "Đêm cafe",
+      "en": "Café night"
+     },
+     "dur": {
+      "vi": "2 giờ",
+      "en": "2 hrs"
+     },
+     "from": 2500000
+    },
+    {
+     "name": {
+      "vi": "Lễ cưới ngoài trời",
+      "en": "Outdoor wedding"
+     },
+     "dur": {
+      "vi": "Lễ + tiệc, 3 giờ",
+      "en": "Ceremony + party, 3 hrs"
+     },
+     "from": 6000000
+    }
+   ],
+   "media": [
+    {
+     "k": "video",
+     "t": "Cafe Phố Cổ – live",
+     "len": "4:48"
+    },
+    {
+     "k": "audio",
+     "t": "Đóa hoa vô thường",
+     "len": "5:20"
+    },
+    {
+     "k": "photo",
+     "t": "Sinh nhật tại Tây Hồ",
+     "len": ""
+    }
+   ],
+   "social": {
+    "fb": "facebook.com/baonam.acoustic",
+    "ig": "@baonam.acoustic",
+    "tt": "",
+    "yt": ""
+   },
+   "phone": "0987 664 210",
+   "email": "baonam@demo.com",
+   "payAccount": "MB Bank · 0987 6642 10",
+   "internalNote": "",
+   "busy": [
+    "2026-11-08"
+   ]
+  },
+  {
+   "id": "a5",
+   "region": "vn",
+   "name": "Mây Trio Jazz",
+   "kind": {
+    "vi": "Nhóm 3 người",
+    "en": "Trio"
+   },
+   "category": "band",
+   "genres": [
+    "Jazz",
+    "Bossa nova",
+    "Swing"
+   ],
+   "city": "hn",
+   "area": "region",
+   "hue": 205,
+   "rating": 4.9,
+   "reviewsCount": 37,
+   "bookings": 95,
+   "top": true,
+   "verified": true,
+   "response": {
+    "vi": "2 giờ",
+    "en": "2 hrs"
+   },
+   "priceMin": 6000000,
+   "priceMax": 14000000,
+   "fee": 6000000,
+   "joined": 2020,
+   "bio": {
+    "vi": "Piano, contrabass và vocal nữ. Jazz standard, bossa nova và phối jazz cho nhạc Việt.",
+    "en": "Piano, double bass and female vocals. Jazz standards, bossa nova and jazz arrangements of Vietnamese songs."
+   },
+   "usp": {
+    "vi": "Hợp không gian fine dining và lounge cần nhạc nền tinh tế.",
+    "en": "Ideal for fine dining and lounges that want refined background music."
+   },
+   "services": [
+    "bar",
+    "restaurant",
+    "corporate"
+   ],
+   "packages": [
+    {
+     "name": {
+      "vi": "Jazz dinner",
+      "en": "Jazz dinner"
+     },
+     "dur": {
+      "vi": "2 × 45 phút",
+      "en": "2 × 45 min"
+     },
+     "from": 6000000
+    },
+    {
+     "name": {
+      "vi": "Gala / tiệc công ty",
+      "en": "Gala / corporate"
+     },
+     "dur": {
+      "vi": "3 giờ",
+      "en": "3 hrs"
+     },
+     "from": 14000000
+    }
+   ],
+   "media": [
+    {
+     "k": "video",
+     "t": "Autumn Leaves – live",
+     "len": "5:30"
+    },
+    {
+     "k": "audio",
+     "t": "Bossa Việt",
+     "len": "4:00"
+    },
+    {
+     "k": "photo",
+     "t": "Gala tại Metropole",
+     "len": ""
+    }
+   ],
+   "social": {
+    "fb": "facebook.com/maytriojazz",
+    "ig": "@maytrio.jazz",
+    "tt": "",
+    "yt": "Mây Trio"
+   },
+   "phone": "0904 771 380",
+   "email": "maytrio@demo.com",
+   "payAccount": "BIDV · 1201 0004 7713",
+   "internalNote": "Piano cần đàn sẵn hoặc thêm 1,5tr thuê đàn.",
+   "busy": [
+    "2026-11-12",
+    "2026-11-19"
+   ]
+  },
+  {
+   "id": "a6",
+   "region": "vn",
+   "name": "Hạ Vy Bolero",
+   "kind": {
+    "vi": "Solo",
+    "en": "Solo"
+   },
+   "category": "singer",
+   "genres": [
+    "Bolero",
+    "Trữ tình"
+   ],
+   "city": "hcm",
+   "area": "local",
+   "hue": 325,
+   "rating": 4.6,
+   "reviewsCount": 44,
+   "bookings": 120,
+   "top": false,
+   "verified": false,
+   "response": {
+    "vi": "4 giờ",
+    "en": "4 hrs"
+   },
+   "priceMin": 3000000,
+   "priceMax": 6000000,
+   "fee": 3000000,
+   "joined": 2021,
+   "bio": {
+    "vi": "Giọng ca bolero và trữ tình quê hương, được yêu thích ở nhà hàng tiệc và tiệc mừng thọ.",
+    "en": "Bolero and Vietnamese folk-ballad singer, a favourite at banquet halls and family celebrations."
+   },
+   "usp": {
+    "vi": "Song ca được với khách mời, hát được cả tân cổ giao duyên.",
+    "en": "Duets with guests and sings traditional cải lương fusion."
+   },
+   "services": [
+    "restaurant",
+    "wedding",
+    "birthday"
+   ],
+   "packages": [
+    {
+     "name": {
+      "vi": "Đêm trữ tình",
+      "en": "Ballad night"
+     },
+     "dur": {
+      "vi": "3 giờ",
+      "en": "3 hrs"
+     },
+     "from": 3000000
+    },
+    {
+     "name": {
+      "vi": "Tiệc cưới",
+      "en": "Wedding"
+     },
+     "dur": {
+      "vi": "3 giờ",
+      "en": "3 hrs"
+     },
+     "from": 6000000
+    }
+   ],
+   "media": [
+    {
+     "k": "video",
+     "t": "Duyên phận – live",
+     "len": "4:30"
+    },
+    {
+     "k": "audio",
+     "t": "Liên khúc bolero",
+     "len": "12:00"
+    }
+   ],
+   "social": {
+    "fb": "facebook.com/havybolero",
+    "ig": "",
+    "tt": "@havy.bolero",
+    "yt": ""
+   },
+   "phone": "0977 315 902",
+   "email": "havy@demo.com",
+   "payAccount": "Sacombank · 0603 1559 02",
+   "internalNote": "",
+   "busy": [
+    "2026-11-02"
+   ]
+  },
+  {
+   "id": "a7",
+   "region": "vn",
+   "name": "Saxophone Anh Khoa",
+   "kind": {
+    "vi": "Solo",
+    "en": "Solo"
+   },
+   "category": "instrument",
+   "genres": [
+    "Saxophone",
+    "Jazz",
+    "Pop"
+   ],
+   "city": "dn",
+   "area": "region",
+   "hue": 42,
+   "rating": 4.8,
+   "reviewsCount": 29,
+   "bookings": 77,
+   "top": false,
+   "verified": true,
+   "response": {
+    "vi": "1 giờ",
+    "en": "1 hr"
+   },
+   "priceMin": 2500000,
+   "priceMax": 7000000,
+   "fee": 2500000,
+   "joined": 2022,
+   "bio": {
+    "vi": "Nghệ sĩ saxophone hòa tấu pop và jazz tại resort và tiệc cưới ven biển Đà Nẵng – Hội An.",
+    "en": "Saxophonist playing pop and jazz at beach resorts and weddings around Da Nang and Hoi An."
+   },
+   "usp": {
+    "vi": "Có loa di động, diễn được ngoài trời không cần điện.",
+    "en": "Battery-powered speaker, plays outdoors with no power needed."
+   },
+   "services": [
+    "wedding",
+    "restaurant",
+    "opening"
+   ],
+   "packages": [
+    {
+     "name": {
+      "vi": "Hòa tấu nhà hàng",
+      "en": "Dinner set"
+     },
+     "dur": {
+      "vi": "2 giờ",
+      "en": "2 hrs"
+     },
+     "from": 2500000
+    },
+    {
+     "name": {
+      "vi": "Lễ cưới bãi biển",
+      "en": "Beach wedding"
+     },
+     "dur": {
+      "vi": "Lễ + tiệc",
+      "en": "Ceremony + party"
+     },
+     "from": 7000000
+    }
+   ],
+   "media": [
+    {
+     "k": "video",
+     "t": "Sunset sax – Mỹ Khê",
+     "len": "3:12"
+    },
+    {
+     "k": "audio",
+     "t": "Careless Whisper",
+     "len": "4:58"
+    }
+   ],
+   "social": {
+    "fb": "facebook.com/anhkhoa.sax",
+    "ig": "@anhkhoa.sax",
+    "tt": "",
+    "yt": ""
+   },
+   "phone": "0935 882 104",
+   "email": "anhkhoa@demo.com",
+   "payAccount": "VietinBank · 1088 2104 33",
+   "internalNote": "",
+   "busy": []
+  },
+  {
+   "id": "a8",
+   "region": "vn",
+   "name": "Ảo thuật gia Quốc Khang",
+   "kind": {
+    "vi": "Solo",
+    "en": "Solo"
+   },
+   "category": "magic",
+   "genres": [
+    "Close-up",
+    "Sân khấu",
+    "Mentalism"
+   ],
+   "city": "hcm",
+   "area": "intl",
+   "hue": 190,
+   "rating": 4.9,
+   "reviewsCount": 58,
+   "bookings": 143,
+   "top": true,
+   "verified": true,
+   "response": {
+    "vi": "2 giờ",
+    "en": "2 hrs"
+   },
+   "priceMin": 3000000,
+   "priceMax": 12000000,
+   "fee": 3000000,
+   "joined": 2018,
+   "bio": {
+    "vi": "Ảo thuật close-up đi bàn và tiết mục sân khấu 20 phút cho sự kiện doanh nghiệp và resort 5 sao.",
+    "en": "Table-side close-up magic and 20-minute stage acts for corporate events and 5-star resorts."
+   },
+   "usp": {
+    "vi": "Cá nhân hoá tiết mục với logo hoặc sản phẩm của doanh nghiệp.",
+    "en": "Personalises tricks with the client’s logo or products."
+   },
+   "services": [
+    "birthday",
+    "corporate",
+    "opening",
+    "wedding"
+   ],
+   "packages": [
+    {
+     "name": {
+      "vi": "Close-up đi bàn",
+      "en": "Table-side close-up"
+     },
+     "dur": {
+      "vi": "60 phút",
+      "en": "60 min"
+     },
+     "from": 3000000
+    },
+    {
+     "name": {
+      "vi": "Show doanh nghiệp",
+      "en": "Corporate show"
+     },
+     "dur": {
+      "vi": "Sân khấu + close-up",
+      "en": "Stage + close-up"
+     },
+     "from": 12000000
+    }
+   ],
+   "media": [
+    {
+     "k": "video",
+     "t": "Mentalism tại gala",
+     "len": "6:40"
+    },
+    {
+     "k": "video",
+     "t": "Close-up sinh nhật",
+     "len": "2:15"
+    }
+   ],
+   "social": {
+    "fb": "facebook.com/quockhang.magic",
+    "ig": "@quockhang.magic",
+    "tt": "@khang.magic",
+    "yt": ""
+   },
+   "phone": "0903 655 870",
+   "email": "quockhang@demo.com",
+   "payAccount": "Vietcombank · 0441 0006 558",
+   "internalNote": "",
+   "busy": [
+    "2026-11-02",
+    "2026-11-09"
+   ]
+  },
+  {
+   "id": "a9",
+   "region": "vn",
+   "name": "Đức Phong Stand-up",
+   "kind": {
+    "vi": "Solo",
+    "en": "Solo"
+   },
+   "category": "comedy",
+   "genres": [
+    "Stand-up",
+    "MC hài"
+   ],
+   "city": "hn",
+   "area": "region",
+   "hue": 58,
+   "rating": 4.7,
+   "reviewsCount": 33,
+   "bookings": 64,
+   "top": false,
+   "verified": false,
+   "response": {
+    "vi": "5 giờ",
+    "en": "5 hrs"
+   },
+   "priceMin": 5000000,
+   "priceMax": 15000000,
+   "fee": 5000000,
+   "joined": 2023,
+   "bio": {
+    "vi": "Diễn viên hài độc thoại, MC hoạt náo cho tiệc công ty. Nội dung sạch, hợp môi trường doanh nghiệp.",
+    "en": "Stand-up comedian and party MC for company events. Clean material that works for corporate crowds."
+   },
+   "usp": {
+    "vi": "Viết riêng 5 phút mở màn về chính công ty của khách.",
+    "en": "Writes a custom 5-minute opener about your company."
+   },
+   "services": [
+    "corporate",
+    "birthday",
+    "bar"
+   ],
+   "packages": [
+    {
+     "name": {
+      "vi": "Set stand-up",
+      "en": "Stand-up set"
+     },
+     "dur": {
+      "vi": "30 phút",
+      "en": "30 min"
+     },
+     "from": 5000000
+    },
+    {
+     "name": {
+      "vi": "MC + stand-up",
+      "en": "MC + stand-up"
+     },
+     "dur": {
+      "vi": "Cả chương trình",
+      "en": "Full programme"
+     },
+     "from": 15000000
+    }
+   ],
+   "media": [
+    {
+     "k": "video",
+     "t": "Dân văn phòng – stand-up",
+     "len": "8:10"
+    }
+   ],
+   "social": {
+    "fb": "facebook.com/ducphong.standup",
+    "ig": "",
+    "tt": "@ducphong.cuoi",
+    "yt": ""
+   },
+   "phone": "0968 230 554",
+   "email": "ducphong@demo.com",
+   "payAccount": "Techcombank · 1903 2305 54",
+   "internalNote": "",
+   "busy": []
+  },
+  {
+   "id": "a10",
+   "region": "vn",
+   "name": "Vũ đoàn Lửa Hồng",
+   "kind": {
+    "vi": "Nhóm 6–12 người",
+    "en": "6–12 dancers"
+   },
+   "category": "dance",
+   "genres": [
+    "Múa đương đại",
+    "Dance cover"
+   ],
+   "city": "hcm",
+   "area": "region",
+   "hue": 8,
+   "rating": 4.6,
+   "reviewsCount": 27,
+   "bookings": 89,
+   "top": false,
+   "verified": true,
+   "response": {
+    "vi": "3 giờ",
+    "en": "3 hrs"
+   },
+   "priceMin": 6000000,
+   "priceMax": 20000000,
+   "fee": 6000000,
+   "joined": 2019,
+   "bio": {
+    "vi": "Vũ đoàn chuyên múa mở màn sự kiện, khai trương và tiệc cưới. Dàn dựng tiết mục theo chủ đề.",
+    "en": "Dance company for event openers, launches and weddings, with themed choreography."
+   },
+   "usp": {
+    "vi": "Dàn dựng tiết mục riêng trong 7 ngày, có trang phục theo concept.",
+    "en": "Custom choreography in 7 days with themed costumes."
+   },
+   "services": [
+    "corporate",
+    "opening",
+    "wedding"
+   ],
+   "packages": [
+    {
+     "name": {
+      "vi": "Tiết mục mở màn",
+      "en": "Opening act"
+     },
+     "dur": {
+      "vi": "2 tiết mục, 6 vũ công",
+      "en": "2 pieces, 6 dancers"
+     },
+     "from": 6000000
+    },
+    {
+     "name": {
+      "vi": "Show theo chủ đề",
+      "en": "Themed show"
+     },
+     "dur": {
+      "vi": "12 vũ công",
+      "en": "12 dancers"
+     },
+     "from": 20000000
+    }
+   ],
+   "media": [
+    {
+     "k": "video",
+     "t": "Opening Gala 2025",
+     "len": "3:30"
+    },
+    {
+     "k": "photo",
+     "t": "Khai trương TTTM",
+     "len": ""
+    }
+   ],
+   "social": {
+    "fb": "facebook.com/vudoanluahong",
+    "ig": "@luahong.dance",
+    "tt": "",
+    "yt": ""
+   },
+   "phone": "0918 447 260",
+   "email": "luahong@demo.com",
+   "payAccount": "ACB · 1688 4472 60",
+   "internalNote": "",
+   "busy": [
+    "2026-11-22"
+   ]
+  },
+  {
+   "id": "a11",
+   "region": "ca",
+   "name": "Northbound Trio",
+   "kind": {
+    "vi": "Nhóm 3 người",
+    "en": "Trio"
+   },
+   "category": "band",
+   "genres": [
+    "Jazz",
+    "Soul",
+    "Standards"
+   ],
+   "city": "tor",
+   "area": "region",
+   "hue": 210,
+   "rating": 4.9,
+   "reviewsCount": 48,
+   "bookings": 122,
+   "top": true,
+   "verified": true,
+   "response": {
+    "vi": "1 giờ",
+    "en": "1 hr"
+   },
+   "priceMin": 600,
+   "priceMax": 1800,
+   "fee": 650,
+   "joined": 2019,
+   "bio": {
+    "vi": "Trio jazz Toronto: piano, contrabass, trống. Standards, soul và các bản phối lại từ nhạc pop.",
+    "en": "Toronto jazz trio on piano, upright bass and drums. Standards, soul and jazz takes on pop songs."
+   },
+   "usp": {
+    "vi": "Có thể thêm ca sĩ khách mời cho đêm đặc biệt.",
+    "en": "Can add a guest vocalist for special nights."
+   },
+   "services": [
+    "bar",
+    "restaurant",
+    "corporate",
+    "wedding"
+   ],
+   "packages": [
+    {
+     "name": {
+      "vi": "Late night jazz",
+      "en": "Late night jazz"
+     },
+     "dur": {
+      "vi": "2 × 45 phút",
+      "en": "2 × 45 min"
+     },
+     "from": 650
+    },
+    {
+     "name": {
+      "vi": "Tiệc công ty",
+      "en": "Corporate reception"
+     },
+     "dur": {
+      "vi": "3 giờ",
+      "en": "3 hrs"
+     },
+     "from": 1800
+    }
+   ],
+   "media": [
+    {
+     "k": "video",
+     "t": "Live at Ossington",
+     "len": "5:10"
+    },
+    {
+     "k": "audio",
+     "t": "Blue in Green",
+     "len": "6:02"
+    },
+    {
+     "k": "photo",
+     "t": "Distillery District gala",
+     "len": ""
+    }
+   ],
+   "social": {
+    "fb": "facebook.com/northboundtrio",
+    "ig": "@northbound.trio",
+    "tt": "",
+    "yt": "Northbound Trio"
+   },
+   "phone": "(416) 555-0182",
+   "email": "northbound@demo.com",
+   "payAccount": "RBC · Interac northbound@demo.com",
+   "internalNote": "Needs piano or +$120 keyboard rental.",
+   "busy": [
+    "2026-11-12",
+    "2026-11-26"
+   ]
+  },
+  {
+   "id": "a12",
+   "region": "ca",
+   "name": "Maya Chen",
+   "kind": {
+    "vi": "Solo",
+    "en": "Solo"
+   },
+   "category": "singer",
+   "genres": [
+    "Pop",
+    "Soul",
+    "R&B"
+   ],
+   "city": "van",
+   "area": "region",
+   "hue": 330,
+   "rating": 4.8,
+   "reviewsCount": 57,
+   "bookings": 140,
+   "top": true,
+   "verified": true,
+   "response": {
+    "vi": "< 1 giờ",
+    "en": "< 1 hr"
+   },
+   "priceMin": 350,
+   "priceMax": 900,
+   "fee": 400,
+   "joined": 2020,
+   "bio": {
+    "vi": "Ca sĩ pop-soul từ Vancouver, hát live với loop station hoặc band 3 người.",
+    "en": "Vancouver pop-soul singer performing with a loop station or a 3-piece band."
+   },
+   "usp": {
+    "vi": "Hát được tiếng Anh, Quảng Đông và tiếng Pháp.",
+    "en": "Sings in English, Cantonese and French."
+   },
+   "services": [
+    "restaurant",
+    "bar",
+    "wedding",
+    "corporate"
+   ],
+   "packages": [
+    {
+     "name": {
+      "vi": "Soul session",
+      "en": "Soul session"
+     },
+     "dur": {
+      "vi": "2 × 45 phút",
+      "en": "2 × 45 min"
+     },
+     "from": 400
+    },
+    {
+     "name": {
+      "vi": "Tiệc cưới",
+      "en": "Wedding"
+     },
+     "dur": {
+      "vi": "Lễ + tiệc, 4 giờ",
+      "en": "Ceremony + reception, 4 hrs"
+     },
+     "from": 900
+    }
+   ],
+   "media": [
+    {
+     "k": "video",
+     "t": "Soul Sessions – live",
+     "len": "4:44"
+    },
+    {
+     "k": "audio",
+     "t": "Golden hour cover",
+     "len": "3:40"
+    },
+    {
+     "k": "photo",
+     "t": "Gastown rooftop",
+     "len": ""
+    }
+   ],
+   "social": {
+    "fb": "facebook.com/mayachenmusic",
+    "ig": "@mayachen.sings",
+    "tt": "@mayachen",
+    "yt": "Maya Chen Music"
+   },
+   "phone": "(604) 555-0144",
+   "email": "maya@demo.com",
+   "payAccount": "TD · Interac maya@demo.com",
+   "internalNote": "",
+   "busy": [
+    "2026-11-08",
+    "2026-11-29"
+   ]
+  },
+  {
+   "id": "a13",
+   "region": "ca",
+   "name": "DJ Polaris",
+   "kind": {
+    "vi": "Solo",
+    "en": "Solo"
+   },
+   "category": "dj",
+   "genres": [
+    "House",
+    "Disco",
+    "Top 40"
+   ],
+   "city": "mtl",
+   "area": "intl",
+   "hue": 262,
+   "rating": 4.7,
+   "reviewsCount": 39,
+   "bookings": 171,
+   "top": false,
+   "verified": true,
+   "response": {
+    "vi": "2 giờ",
+    "en": "2 hrs"
+   },
+   "priceMin": 500,
+   "priceMax": 2000,
+   "fee": 500,
+   "joined": 2018,
+   "bio": {
+    "vi": "DJ Montréal chơi disco house và Top 40, từng diễn tại các lễ hội mùa hè.",
+    "en": "Montréal DJ spinning disco house and Top 40, regular at summer festivals."
+   },
+   "usp": {
+    "vi": "Bộ loa và đèn riêng cho tiệc đến 250 khách.",
+    "en": "Own sound and light rig for parties up to 250 guests."
+   },
+   "services": [
+    "bar",
+    "birthday",
+    "corporate",
+    "opening"
+   ],
+   "packages": [
+    {
+     "name": {
+      "vi": "Club night",
+      "en": "Club night"
+     },
+     "dur": {
+      "vi": "3 giờ",
+      "en": "3 hrs"
+     },
+     "from": 500
+    },
+    {
+     "name": {
+      "vi": "Tiệc riêng full rig",
+      "en": "Private party, full rig"
+     },
+     "dur": {
+      "vi": "5 giờ",
+      "en": "5 hrs"
+     },
+     "from": 2000
+    }
+   ],
+   "media": [
+    {
+     "k": "audio",
+     "t": "Disco house mix",
+     "len": "62:00"
+    },
+    {
+     "k": "video",
+     "t": "Festival set 2025",
+     "len": "3:15"
+    }
+   ],
+   "social": {
+    "fb": "",
+    "ig": "@djpolaris.mtl",
+    "tt": "@djpolaris",
+    "yt": ""
+   },
+   "phone": "(514) 555-0107",
+   "email": "polaris@demo.com",
+   "payAccount": "Desjardins · Interac polaris@demo.com",
+   "internalNote": "",
+   "busy": [
+    "2026-11-14"
+   ]
+  },
+  {
+   "id": "a14",
+   "region": "ca",
+   "name": "Juniper & Pine",
+   "kind": {
+    "vi": "Song ca",
+    "en": "Duo"
+   },
+   "category": "acoustic",
+   "genres": [
+    "Folk",
+    "Acoustic",
+    "Indie"
+   ],
+   "city": "van",
+   "area": "region",
+   "hue": 140,
+   "rating": 4.9,
+   "reviewsCount": 44,
+   "bookings": 109,
+   "top": true,
+   "verified": false,
+   "response": {
+    "vi": "3 giờ",
+    "en": "3 hrs"
+   },
+   "priceMin": 300,
+   "priceMax": 800,
+   "fee": 350,
+   "joined": 2021,
+   "bio": {
+    "vi": "Song ca folk guitar và violin, hòa âm hai bè, hợp brunch, tiệc cưới ngoài trời.",
+    "en": "Folk duo on guitar and fiddle with two-part harmonies, perfect for brunches and outdoor weddings."
+   },
+   "usp": {
+    "vi": "Có bộ bài cover nhạc Canada kinh điển.",
+    "en": "A full set of classic Canadian covers."
+   },
+   "services": [
+    "restaurant",
+    "wedding",
+    "birthday"
+   ],
+   "packages": [
+    {
+     "name": {
+      "vi": "Brunch set",
+      "en": "Brunch set"
+     },
+     "dur": {
+      "vi": "2 giờ",
+      "en": "2 hrs"
+     },
+     "from": 350
+    },
+    {
+     "name": {
+      "vi": "Lễ cưới ngoài trời",
+      "en": "Outdoor wedding"
+     },
+     "dur": {
+      "vi": "Lễ + cocktail",
+      "en": "Ceremony + cocktails"
+     },
+     "from": 800
+    }
+   ],
+   "media": [
+    {
+     "k": "video",
+     "t": "Unplugged at Granville",
+     "len": "4:05"
+    },
+    {
+     "k": "audio",
+     "t": "Harvest Moon cover",
+     "len": "4:30"
+    }
+   ],
+   "social": {
+    "fb": "facebook.com/juniperandpine",
+    "ig": "@juniper.pine",
+    "tt": "",
+    "yt": ""
+   },
+   "phone": "(604) 555-0119",
+   "email": "juniper@demo.com",
+   "payAccount": "BMO · Interac juniper@demo.com",
+   "internalNote": "",
+   "busy": []
+  },
+  {
+   "id": "a15",
+   "region": "ca",
+   "name": "The Great Lorenzo",
+   "kind": {
+    "vi": "Solo",
+    "en": "Solo"
+   },
+   "category": "magic",
+   "genres": [
+    "Close-up",
+    "Stage",
+    "Comedy magic"
+   ],
+   "city": "tor",
+   "area": "region",
+   "hue": 188,
+   "rating": 4.8,
+   "reviewsCount": 35,
+   "bookings": 96,
+   "top": false,
+   "verified": true,
+   "response": {
+    "vi": "2 giờ",
+    "en": "2 hrs"
+   },
+   "priceMin": 400,
+   "priceMax": 1500,
+   "fee": 450,
+   "joined": 2017,
+   "bio": {
+    "vi": "Ảo thuật gia hài hước tại Toronto, chuyên close-up đi bàn và tiết mục sân khấu.",
+    "en": "Toronto comedy magician specialising in table-side close-up and stage acts."
+   },
+   "usp": {
+    "vi": "Tiết mục thân thiện cho cả trẻ em và người lớn.",
+    "en": "Family-friendly acts that work for kids and adults."
+   },
+   "services": [
+    "birthday",
+    "corporate",
+    "restaurant"
+   ],
+   "packages": [
+    {
+     "name": {
+      "vi": "Close-up đi bàn",
+      "en": "Table-side close-up"
+     },
+     "dur": {
+      "vi": "60 phút",
+      "en": "60 min"
+     },
+     "from": 450
+    },
+    {
+     "name": {
+      "vi": "Show sân khấu",
+      "en": "Stage show"
+     },
+     "dur": {
+      "vi": "45 phút",
+      "en": "45 min"
+     },
+     "from": 1500
+    }
+   ],
+   "media": [
+    {
+     "k": "video",
+     "t": "Card magic close-up",
+     "len": "2:50"
+    }
+   ],
+   "social": {
+    "fb": "",
+    "ig": "@greatlorenzo",
+    "tt": "@greatlorenzo",
+    "yt": ""
+   },
+   "phone": "(647) 555-0160",
+   "email": "lorenzo@demo.com",
+   "payAccount": "Scotiabank · Interac lorenzo@demo.com",
+   "internalNote": "",
+   "busy": []
+  },
+  {
+   "id": "a16",
+   "region": "ca",
+   "name": "Sam Okafor Comedy",
+   "kind": {
+    "vi": "Solo",
+    "en": "Solo"
+   },
+   "category": "comedy",
+   "genres": [
+    "Stand-up",
+    "MC"
+   ],
+   "city": "cal",
+   "area": "region",
+   "hue": 52,
+   "rating": 4.6,
+   "reviewsCount": 22,
+   "bookings": 58,
+   "top": false,
+   "verified": false,
+   "response": {
+    "vi": "4 giờ",
+    "en": "4 hrs"
+   },
+   "priceMin": 500,
+   "priceMax": 1500,
+   "fee": 500,
+   "joined": 2022,
+   "bio": {
+    "vi": "Diễn viên stand-up ở Calgary, MC cho tiệc công ty và gala.",
+    "en": "Calgary stand-up comic and host for company parties and galas."
+   },
+   "usp": {
+    "vi": "Nội dung sạch, có thể dẫn song ngữ Anh – Pháp.",
+    "en": "Clean material, can host bilingual English–French."
+   },
+   "services": [
+    "corporate",
+    "bar",
+    "birthday"
+   ],
+   "packages": [
+    {
+     "name": {
+      "vi": "Set stand-up",
+      "en": "Stand-up set"
+     },
+     "dur": {
+      "vi": "30 phút",
+      "en": "30 min"
+     },
+     "from": 500
+    },
+    {
+     "name": {
+      "vi": "MC gala",
+      "en": "Gala host"
+     },
+     "dur": {
+      "vi": "Cả chương trình",
+      "en": "Full programme"
+     },
+     "from": 1500
+    }
+   ],
+   "media": [
+    {
+     "k": "video",
+     "t": "Office life – stand-up",
+     "len": "7:20"
+    }
+   ],
+   "social": {
+    "fb": "",
+    "ig": "@samokafor.comedy",
+    "tt": "",
+    "yt": "Sam Okafor"
+   },
+   "phone": "(403) 555-0133",
+   "email": "sam@demo.com",
+   "payAccount": "ATB · Interac sam@demo.com",
+   "internalNote": "",
+   "busy": []
+  }
+ ],
+ "venues": [
+  {
+   "id": "v1",
+   "region": "vn",
+   "business": "The Jazz Corner",
+   "type": "bar",
+   "rep": "Lê Minh Quân",
+   "phone": "0938 501 664",
+   "email": "jazz@demo.com",
+   "city": "hcm",
+   "address": "12 Lê Thánh Tôn, P. Bến Nghé, Quận 1",
+   "pay": "Chuyển khoản ACB",
+   "hue": 230
+  },
+  {
+   "id": "v2",
+   "region": "vn",
+   "business": "Saigon Acoustic",
+   "type": "restaurant",
+   "rep": "Võ Thanh Tâm",
+   "phone": "0907 228 551",
+   "email": "acoustic@demo.com",
+   "city": "hcm",
+   "address": "68 Phạm Ngọc Thạch, P. Võ Thị Sáu, Quận 3",
+   "pay": "Thẻ Visa ••• 2290",
+   "hue": 160
+  },
+  {
+   "id": "v3",
+   "region": "vn",
+   "business": "Nhà hàng Mộc Lan",
+   "type": "restaurant",
+   "rep": "Trần Thu Hà",
+   "phone": "0903 412 245",
+   "email": "moclan@demo.com",
+   "city": "hcm",
+   "address": "45 Nguyễn Huệ, P. Bến Nghé, Quận 1",
+   "pay": "Thẻ Visa ••• 7712",
+   "hue": 140
+  },
+  {
+   "id": "v4",
+   "region": "vn",
+   "business": "Hoa Sen Events",
+   "type": "corporate",
+   "rep": "Phạm Ngọc Anh",
+   "phone": "0912 880 316",
+   "email": "hoasen@demo.com",
+   "city": "hn",
+   "address": "88 Láng Hạ, Đống Đa",
+   "pay": "Thẻ Mastercard ••• 0291",
+   "hue": 300
+  },
+  {
+   "id": "v5",
+   "region": "ca",
+   "business": "The Maple Room",
+   "type": "bar",
+   "rep": "Olivia Grant",
+   "phone": "(416) 555-0199",
+   "email": "maple@demo.com",
+   "city": "tor",
+   "address": "214 Ossington Ave, Toronto, ON",
+   "pay": "Visa ••• 4410",
+   "hue": 20
+  },
+  {
+   "id": "v7",
+   "region": "vn",
+   "business": "Hanoi Jazz Loft",
+   "type": "bar",
+   "rep": "Nguyễn Hải Yến",
+   "phone": "0912 334 778",
+   "email": "loft@demo.com",
+   "city": "hn",
+   "address": "27 Tràng Tiền, Hoàn Kiếm",
+   "pay": "Chuyển khoản VCB",
+   "hue": 200
+  },
+  {
+   "id": "v8",
+   "region": "vn",
+   "business": "Sơn Trà Beach Club",
+   "type": "restaurant",
+   "rep": "Trần Quốc Bảo",
+   "phone": "0935 117 902",
+   "email": "sontra@demo.com",
+   "city": "dn",
+   "address": "Võ Nguyên Giáp, Phước Mỹ, Sơn Trà",
+   "pay": "Thẻ Visa ••• 5532",
+   "hue": 180
+  },
+  {
+   "id": "v9",
+   "region": "ca",
+   "business": "Le Studio Mile-End",
+   "type": "bar",
+   "rep": "Chloé Roy",
+   "phone": "(514) 555-0150",
+   "email": "studio@demo.com",
+   "city": "mtl",
+   "address": "5240 Boul. Saint-Laurent, Montréal, QC",
+   "pay": "Visa ••• 8821",
+   "hue": 280
+  },
+  {
+   "id": "v10",
+   "region": "ca",
+   "business": "Stampede Social",
+   "type": "restaurant",
+   "rep": "Ryan Mitchell",
+   "phone": "(403) 555-0128",
+   "email": "stampede@demo.com",
+   "city": "cal",
+   "address": "1001 17 Ave SW, Calgary, AB",
+   "pay": "Interac e-Transfer",
+   "hue": 35
+  },
+  {
+   "id": "v6",
+   "region": "ca",
+   "business": "Granville Social",
+   "type": "restaurant",
+   "rep": "Daniel Park",
+   "phone": "(604) 555-0171",
+   "email": "granville@demo.com",
+   "city": "van",
+   "address": "1120 Granville St, Vancouver, BC",
+   "pay": "Interac e-Transfer",
+   "hue": 120
+  }
+ ],
+ "bookings": [
+  {
+   "groupId": null,
+   "artistId": "a1",
+   "quote": {
+    "price": 3500000,
+    "dur": {
+     "vi": "3 giờ",
+     "en": "3 hrs"
+    },
+    "equip": "",
+    "travel": 0,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 200000,
+    "capacity": 80
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "15/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    },
+    {
+     "at": "16/10 08:20",
+     "text": {
+      "vi": "Lam Thảo Vy nhận show (1-click)",
+      "en": "Lam Thảo Vy accepted the show (1-click)"
+     }
+    },
+    {
+     "at": "16/10 08:21",
+     "text": {
+      "vi": "Sự kiện mở bán vé",
+      "en": "Tickets went on sale"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "20:00",
+   "duration": 3,
+   "budget": 2,
+   "notes": "",
+   "fee": 3500000,
+   "createdAt": "2026-10-20",
+   "id": "e1",
+   "region": "vn",
+   "source": "slot",
+   "venueId": "v1",
+   "category": "singer",
+   "title": "Đêm nhạc Lam Thảo Vy",
+   "eventType": "bar",
+   "date": "2026-11-06",
+   "city": "hcm",
+   "address": "12 Lê Thánh Tôn, Quận 1",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a1",
+   "quote": {
+    "price": 3000000,
+    "dur": {
+     "vi": "2 giờ",
+     "en": "2 hrs"
+    },
+    "equip": "",
+    "travel": 0,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 150000,
+    "capacity": 60
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "18/10 09:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    },
+    {
+     "at": "18/10 14:00",
+     "text": {
+      "vi": "Nhà hàng mời Lam Thảo Vy – đã chốt",
+      "en": "Venue invited Lam Thảo Vy – confirmed"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "19:30",
+   "duration": 2,
+   "budget": 2,
+   "notes": "",
+   "fee": 3000000,
+   "createdAt": "2026-10-20",
+   "id": "e2",
+   "region": "vn",
+   "source": "slot",
+   "venueId": "v2",
+   "category": "singer",
+   "title": "Acoustic tối thứ Sáu",
+   "eventType": "restaurant",
+   "date": "2026-11-13",
+   "city": "hcm",
+   "address": "68 Phạm Ngọc Thạch, Quận 3",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a2",
+   "quote": {
+    "price": 9000000,
+    "dur": {
+     "vi": "2 × 45 phút",
+     "en": "2 × 45 min"
+    },
+    "equip": "",
+    "travel": 0,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 250000,
+    "capacity": 120
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "19/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    },
+    {
+     "at": "19/10 18:00",
+     "text": {
+      "vi": "Saigon Rooftop Band nhận show (1-click)",
+      "en": "Saigon Rooftop Band accepted the show (1-click)"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "21:00",
+   "duration": 3,
+   "budget": 2,
+   "notes": "",
+   "fee": 9000000,
+   "createdAt": "2026-10-20",
+   "id": "e3",
+   "region": "vn",
+   "source": "slot",
+   "venueId": "v1",
+   "category": "band",
+   "title": "Funk Night – Saigon Rooftop Band",
+   "eventType": "bar",
+   "date": "2026-11-14",
+   "city": "hcm",
+   "address": "12 Lê Thánh Tôn, Quận 1",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a5",
+   "quote": {
+    "price": 7500000,
+    "dur": {
+     "vi": "2 × 45 phút",
+     "en": "2 × 45 min"
+    },
+    "equip": "",
+    "travel": 1500000,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 300000,
+    "capacity": 60
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "20/10 09:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    },
+    {
+     "at": "21/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mời Mây Trio Jazz – đã chốt",
+      "en": "Venue invited Mây Trio Jazz – confirmed"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "19:00",
+   "duration": 2,
+   "budget": 2,
+   "notes": "",
+   "fee": 7500000,
+   "createdAt": "2026-10-20",
+   "id": "e4",
+   "region": "vn",
+   "source": "slot",
+   "venueId": "v3",
+   "category": "band",
+   "title": "Jazz dinner cùng Mây Trio",
+   "eventType": "restaurant",
+   "date": "2026-11-20",
+   "city": "hcm",
+   "address": "45 Nguyễn Huệ, Quận 1",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": null,
+   "quote": null,
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 200000,
+    "capacity": 80
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "25/10 11:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "19:00",
+   "duration": 3,
+   "budget": 2,
+   "notes": "",
+   "fee": 3500000,
+   "createdAt": "2026-10-20",
+   "id": "s1",
+   "region": "vn",
+   "source": "slot",
+   "venueId": "v1",
+   "category": "singer",
+   "title": "Đêm acoustic Chủ nhật",
+   "eventType": "bar",
+   "date": "2026-11-08",
+   "city": "hcm",
+   "address": "12 Lê Thánh Tôn, Quận 1",
+   "status": "open"
+  },
+  {
+   "groupId": null,
+   "artistId": null,
+   "quote": null,
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 150000,
+    "capacity": 60
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "26/10 09:30",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "19:30",
+   "duration": 2,
+   "budget": 2,
+   "notes": "",
+   "fee": 2500000,
+   "createdAt": "2026-10-20",
+   "id": "s2",
+   "region": "vn",
+   "source": "slot",
+   "venueId": "v2",
+   "category": "acoustic",
+   "title": "Acoustic cuối tuần",
+   "eventType": "restaurant",
+   "date": "2026-11-22",
+   "city": "hcm",
+   "address": "68 Phạm Ngọc Thạch, Quận 3",
+   "status": "open"
+  },
+  {
+   "groupId": null,
+   "artistId": null,
+   "quote": null,
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 250000,
+    "capacity": 70
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "27/10 15:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "19:00",
+   "duration": 3,
+   "budget": 2,
+   "notes": "",
+   "fee": 4000000,
+   "createdAt": "2026-10-20",
+   "id": "s3",
+   "region": "vn",
+   "source": "slot",
+   "venueId": "v3",
+   "category": "singer",
+   "title": "Đêm nhạc Trịnh",
+   "eventType": "restaurant",
+   "date": "2026-11-27",
+   "city": "hcm",
+   "address": "45 Nguyễn Huệ, Quận 1",
+   "status": "open"
+  },
+  {
+   "groupId": "g1",
+   "artistId": "a1",
+   "quote": {
+    "price": 6500000,
+    "dur": {
+     "vi": "2 set × 60 phút",
+     "en": "2 × 60 min sets"
+    },
+    "equip": "Nhà hàng chuẩn bị 2 loa full, 2 micro không dây",
+    "travel": 0,
+    "overtime": 800000,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "Nhận 1 bài theo yêu cầu khách VIP.",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": false,
+    "price": 0,
+    "capacity": 0
+   },
+   "messages": [
+    {
+     "from": "venue",
+     "text": "Chào em, bên chị muốn thêm bài “Diễm xưa” được không?",
+     "at": "27/10 10:12"
+    },
+    {
+     "from": "artist",
+     "text": "Dạ được chị, em đã đưa vào set 2 trong báo giá ạ.",
+     "at": "27/10 10:40"
+    }
+   ],
+   "history": [
+    {
+     "at": "26/10 14:05",
+     "text": {
+      "vi": "Khách gửi Quick Free Quote",
+      "en": "Venue sent a Quick Free Quote"
+     }
+    },
+    {
+     "at": "27/10 09:30",
+     "text": {
+      "vi": "Nghệ sĩ gửi báo giá",
+      "en": "Artist sent a quote"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 120,
+   "start": "19:00",
+   "duration": 3,
+   "budget": 2,
+   "notes": "Tiệc riêng cho khách thân thiết. Ưu tiên ballad và nhạc Trịnh, 1 bài chúc mừng lúc cắt bánh 20:30.",
+   "fee": 0,
+   "createdAt": "2026-10-20",
+   "id": "b1",
+   "region": "vn",
+   "source": "quick",
+   "venueId": "v3",
+   "category": "singer",
+   "title": "Kỷ niệm 10 năm Mộc Lan",
+   "eventType": "restaurant",
+   "date": "2026-11-14",
+   "city": "hcm",
+   "address": "45 Nguyễn Huệ, Quận 1",
+   "status": "quoted"
+  },
+  {
+   "groupId": "g1",
+   "artistId": "a6",
+   "quote": {
+    "price": 5800000,
+    "dur": {
+     "vi": "3 giờ liên tục",
+     "en": "3 hrs straight"
+    },
+    "equip": "Nhà hàng chuẩn bị loa, micro",
+    "travel": 0,
+    "overtime": 600000,
+    "depositPct": 30,
+    "cancel": 1,
+    "terms": "",
+    "at": "27/10 16:12"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": false,
+    "price": 0,
+    "capacity": 0
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "26/10 14:05",
+     "text": {
+      "vi": "Khách gửi Quick Free Quote",
+      "en": "Venue sent a Quick Free Quote"
+     }
+    },
+    {
+     "at": "27/10 16:12",
+     "text": {
+      "vi": "Nghệ sĩ gửi báo giá",
+      "en": "Artist sent a quote"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 120,
+   "start": "19:00",
+   "duration": 3,
+   "budget": 2,
+   "notes": "Tiệc riêng cho khách thân thiết. Ưu tiên ballad và nhạc Trịnh, 1 bài chúc mừng lúc cắt bánh 20:30.",
+   "fee": 0,
+   "createdAt": "2026-10-20",
+   "id": "b2",
+   "region": "vn",
+   "source": "quick",
+   "venueId": "v3",
+   "category": "singer",
+   "title": "Kỷ niệm 10 năm Mộc Lan",
+   "eventType": "restaurant",
+   "date": "2026-11-14",
+   "city": "hcm",
+   "address": "45 Nguyễn Huệ, Quận 1",
+   "status": "quoted"
+  },
+  {
+   "groupId": "g1",
+   "artistId": "a4",
+   "quote": null,
+   "payment": null,
+   "ticketing": {
+    "on": false,
+    "price": 0,
+    "capacity": 0
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "26/10 14:05",
+     "text": {
+      "vi": "Khách gửi Quick Free Quote",
+      "en": "Venue sent a Quick Free Quote"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 120,
+   "start": "19:00",
+   "duration": 3,
+   "budget": 2,
+   "notes": "Tiệc riêng cho khách thân thiết. Ưu tiên ballad và nhạc Trịnh, 1 bài chúc mừng lúc cắt bánh 20:30.",
+   "fee": 0,
+   "createdAt": "2026-10-20",
+   "id": "b3",
+   "region": "vn",
+   "source": "quick",
+   "venueId": "v3",
+   "category": "singer",
+   "title": "Kỷ niệm 10 năm Mộc Lan",
+   "eventType": "restaurant",
+   "date": "2026-11-14",
+   "city": "hcm",
+   "address": "45 Nguyễn Huệ, Quận 1",
+   "status": "new"
+  },
+  {
+   "groupId": null,
+   "artistId": "a2",
+   "quote": {
+    "price": 15000000,
+    "dur": {
+     "vi": "3 giờ, kèm âm thanh 2kW",
+     "en": "3 hrs incl. 2kW PA"
+    },
+    "equip": "Khách chuẩn bị sân khấu 4×3m và điện 3 pha",
+    "travel": 500000,
+    "overtime": 2000000,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "22/10 11:00"
+   },
+   "payment": {
+    "depositPct": 30,
+    "deposit": 4650000,
+    "method": "bank",
+    "paidAt": "24/10 15:20",
+    "remainingPaid": false
+   },
+   "ticketing": {
+    "on": false,
+    "price": 0,
+    "capacity": 0
+   },
+   "messages": [
+    {
+     "from": "artist",
+     "text": "Chị gửi giúp em sơ đồ mặt bằng để band lên phương án loa nhé.",
+     "at": "24/10 16:00"
+    },
+    {
+     "from": "venue",
+     "text": "Chị gửi qua email rồi nha. Dress code trắng – be nhé.",
+     "at": "24/10 17:22"
+    },
+    {
+     "from": "olive",
+     "text": "Olive sẽ gọi xác nhận với hai bên trước show 2 ngày.",
+     "at": "24/10 17:30"
+    }
+   ],
+   "history": [
+    {
+     "at": "21/10 10:00",
+     "text": {
+      "vi": "Khách gửi yêu cầu",
+      "en": "Venue sent a request"
+     }
+    },
+    {
+     "at": "22/10 11:00",
+     "text": {
+      "vi": "Nghệ sĩ gửi báo giá",
+      "en": "Artist sent a quote"
+     }
+    },
+    {
+     "at": "24/10 15:20",
+     "text": {
+      "vi": "Khách đặt cọc 30% – đã xác nhận",
+      "en": "Venue paid 30% deposit – confirmed"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "stage"
+   ],
+   "guests": 200,
+   "start": "18:30",
+   "duration": 4,
+   "budget": 3,
+   "notes": "Mở màn 3 bài sôi động, sau đó nhạc nền nhẹ.",
+   "fee": 0,
+   "createdAt": "2026-10-20",
+   "id": "b4",
+   "region": "vn",
+   "source": "request",
+   "venueId": "v3",
+   "category": "band",
+   "title": "Khai trương chi nhánh Thảo Điền",
+   "eventType": "opening",
+   "date": "2026-11-07",
+   "city": "hcm",
+   "address": "20 Quốc Hương, Thảo Điền, TP. Thủ Đức",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a3",
+   "quote": {
+    "price": 8000000,
+    "dur": {
+     "vi": "3 giờ, kèm loa",
+     "en": "3 hrs incl. speakers"
+    },
+    "equip": "",
+    "travel": 0,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": {
+    "depositPct": 30,
+    "deposit": 2400000,
+    "method": "card",
+    "paidAt": "11/10 09:00",
+    "remainingPaid": true
+   },
+   "ticketing": {
+    "on": false,
+    "price": 0,
+    "capacity": 0
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "09/10 15:00",
+     "text": {
+      "vi": "Khách gửi yêu cầu",
+      "en": "Venue sent a request"
+     }
+    },
+    {
+     "at": "18/10 23:10",
+     "text": {
+      "vi": "Show hoàn tất",
+      "en": "Show completed"
+     }
+    },
+    {
+     "at": "19/10 10:00",
+     "text": {
+      "vi": "Khách đánh giá 5★",
+      "en": "Venue left a 5★ review"
+     }
+    }
+   ],
+   "review": {
+    "rating": 5,
+    "text": "Kairo đọc khách rất tốt, phần hoá trang cực vui. Sẽ book lại dịp Noel.",
+    "at": "19/10"
+   },
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "20:00",
+   "duration": 3,
+   "budget": 2,
+   "notes": "",
+   "fee": 0,
+   "createdAt": "2026-10-20",
+   "id": "b5",
+   "region": "vn",
+   "source": "request",
+   "venueId": "v3",
+   "category": "dj",
+   "title": "Tiệc Halloween khách thân thiết",
+   "eventType": "bar",
+   "date": "2026-10-18",
+   "city": "hcm",
+   "address": "45 Nguyễn Huệ, Quận 1",
+   "status": "completed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a5",
+   "quote": {
+    "price": 6000000,
+    "dur": {
+     "vi": "2 × 45 phút",
+     "en": "2 × 45 min"
+    },
+    "equip": "",
+    "travel": 1500000,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": {
+    "depositPct": 30,
+    "deposit": 2250000,
+    "method": "card",
+    "paidAt": "16/10 08:00",
+    "remainingPaid": false
+   },
+   "ticketing": {
+    "on": false,
+    "price": 0,
+    "capacity": 0
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "14/10 11:00",
+     "text": {
+      "vi": "Khách gửi yêu cầu",
+      "en": "Venue sent a request"
+     }
+    },
+    {
+     "at": "24/10 22:00",
+     "text": {
+      "vi": "Show hoàn tất",
+      "en": "Show completed"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "19:30",
+   "duration": 2,
+   "budget": 2,
+   "notes": "",
+   "fee": 0,
+   "createdAt": "2026-10-20",
+   "id": "b6",
+   "region": "vn",
+   "source": "request",
+   "venueId": "v3",
+   "category": "band",
+   "title": "Đêm jazz cuối tuần",
+   "eventType": "restaurant",
+   "date": "2026-10-24",
+   "city": "hcm",
+   "address": "45 Nguyễn Huệ, Quận 1",
+   "status": "completed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a1",
+   "quote": null,
+   "payment": null,
+   "ticketing": {
+    "on": false,
+    "price": 0,
+    "capacity": 0
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "28/10 18:40",
+     "text": {
+      "vi": "Khách gửi yêu cầu",
+      "en": "Venue sent a request"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 60,
+   "start": "20:30",
+   "duration": 2,
+   "budget": 1,
+   "notes": "Khách nữ 25–35 tuổi, pop US-UK xen nhạc Việt. Lounge có sẵn loa và 1 micro.",
+   "fee": 0,
+   "createdAt": "2026-10-20",
+   "id": "b7",
+   "region": "vn",
+   "source": "request",
+   "venueId": "v1",
+   "category": "singer",
+   "title": "Ladies Night – Acoustic & Pop",
+   "eventType": "bar",
+   "date": "2026-11-21",
+   "city": "hcm",
+   "address": "12 Lê Thánh Tôn, Quận 1",
+   "status": "new"
+  },
+  {
+   "groupId": null,
+   "artistId": "a1",
+   "quote": {
+    "price": 8000000,
+    "dur": {
+     "vi": "3 tiết mục, tổng 45 phút",
+     "en": "3 sets, 45 min total"
+    },
+    "equip": "BTC chuẩn bị toàn bộ âm thanh ánh sáng",
+    "travel": 3000000,
+    "overtime": 0,
+    "depositPct": 50,
+    "cancel": 1,
+    "terms": "",
+    "at": "20/10 14:00"
+   },
+   "payment": {
+    "depositPct": 50,
+    "deposit": 5500000,
+    "method": "card",
+    "paidAt": "21/10 10:15",
+    "remainingPaid": false
+   },
+   "ticketing": {
+    "on": false,
+    "price": 0,
+    "capacity": 0
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "19/10 09:00",
+     "text": {
+      "vi": "Khách gửi yêu cầu",
+      "en": "Venue sent a request"
+     }
+    },
+    {
+     "at": "21/10 10:15",
+     "text": {
+      "vi": "Khách đặt cọc 50% – đã xác nhận",
+      "en": "Venue paid 50% deposit – confirmed"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic",
+    "stage",
+    "lights"
+   ],
+   "guests": 400,
+   "start": "18:00",
+   "duration": 3,
+   "budget": 3,
+   "notes": "",
+   "fee": 0,
+   "createdAt": "2026-10-20",
+   "id": "b8",
+   "region": "vn",
+   "source": "request",
+   "venueId": "v4",
+   "category": "singer",
+   "title": "Year End Party – Hoa Sen Events",
+   "eventType": "corporate",
+   "date": "2026-11-28",
+   "city": "hn",
+   "address": "Trung tâm Hội nghị Quốc gia, Mỹ Đình",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a10",
+   "quote": {
+    "price": 18000000,
+    "dur": {
+     "vi": "2 tiết mục dàn dựng riêng",
+     "en": "2 custom pieces"
+    },
+    "equip": "BTC chuẩn bị sân khấu 8×6m",
+    "travel": 0,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 15:00"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": false,
+    "price": 0,
+    "capacity": 0
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "25/10 09:00",
+     "text": {
+      "vi": "Khách gửi yêu cầu",
+      "en": "Venue sent a request"
+     }
+    },
+    {
+     "at": "28/10 09:00",
+     "text": {
+      "vi": "Khách bấm Book Now – chờ cọc",
+      "en": "Venue clicked Book Now – awaiting deposit"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 1000,
+   "start": "17:00",
+   "duration": 1,
+   "budget": 4,
+   "notes": "",
+   "fee": 0,
+   "createdAt": "2026-10-20",
+   "id": "b10",
+   "region": "vn",
+   "source": "request",
+   "venueId": "v4",
+   "category": "dance",
+   "title": "Khai mạc Hội chợ Giáng sinh",
+   "eventType": "corporate",
+   "date": "2026-12-05",
+   "city": "hcm",
+   "address": "SECC, Quận 7",
+   "status": "pending_payment"
+  },
+  {
+   "groupId": null,
+   "artistId": "a11",
+   "quote": {
+    "price": 650,
+    "dur": {
+     "vi": "2 × 45 phút",
+     "en": "2 × 45 min"
+    },
+    "equip": "",
+    "travel": 0,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 25,
+    "capacity": 90
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "14/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    },
+    {
+     "at": "15/10 09:00",
+     "text": {
+      "vi": "Northbound Trio nhận show (1-click)",
+      "en": "Northbound Trio accepted the show (1-click)"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "21:00",
+   "duration": 3,
+   "budget": 2,
+   "notes": "",
+   "fee": 650,
+   "createdAt": "2026-10-20",
+   "id": "ce1",
+   "region": "ca",
+   "source": "slot",
+   "venueId": "v5",
+   "category": "band",
+   "title": "Northbound Trio – Late Night Jazz",
+   "eventType": "bar",
+   "date": "2026-11-07",
+   "city": "tor",
+   "address": "214 Ossington Ave, Toronto",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a14",
+   "quote": {
+    "price": 350,
+    "dur": {
+     "vi": "2 giờ",
+     "en": "2 hrs"
+    },
+    "equip": "",
+    "travel": 0,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 20,
+    "capacity": 70
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "18/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    },
+    {
+     "at": "18/10 16:00",
+     "text": {
+      "vi": "Nhà hàng mời Juniper & Pine – đã chốt",
+      "en": "Venue invited Juniper & Pine – confirmed"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "19:00",
+   "duration": 2,
+   "budget": 2,
+   "notes": "",
+   "fee": 350,
+   "createdAt": "2026-10-20",
+   "id": "ce2",
+   "region": "ca",
+   "source": "slot",
+   "venueId": "v6",
+   "category": "acoustic",
+   "title": "Juniper & Pine Unplugged",
+   "eventType": "restaurant",
+   "date": "2026-11-14",
+   "city": "van",
+   "address": "1120 Granville St, Vancouver",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a12",
+   "quote": {
+    "price": 400,
+    "dur": {
+     "vi": "2 × 45 phút",
+     "en": "2 × 45 min"
+    },
+    "equip": "",
+    "travel": 250,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 30,
+    "capacity": 90
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "20/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    },
+    {
+     "at": "20/10 12:30",
+     "text": {
+      "vi": "Maya Chen nhận show (1-click)",
+      "en": "Maya Chen accepted the show (1-click)"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "20:30",
+   "duration": 2,
+   "budget": 2,
+   "notes": "",
+   "fee": 400,
+   "createdAt": "2026-10-20",
+   "id": "ce3",
+   "region": "ca",
+   "source": "slot",
+   "venueId": "v5",
+   "category": "singer",
+   "title": "Maya Chen – Soul Sessions",
+   "eventType": "bar",
+   "date": "2026-11-21",
+   "city": "tor",
+   "address": "214 Ossington Ave, Toronto",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": null,
+   "quote": null,
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 20,
+    "capacity": 90
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "26/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "20:00",
+   "duration": 3,
+   "budget": 2,
+   "notes": "",
+   "fee": 500,
+   "createdAt": "2026-10-20",
+   "id": "cs1",
+   "region": "ca",
+   "source": "slot",
+   "venueId": "v5",
+   "category": "band",
+   "title": "Saturday Jazz & Cocktails",
+   "eventType": "bar",
+   "date": "2026-11-28",
+   "city": "tor",
+   "address": "214 Ossington Ave, Toronto",
+   "status": "open"
+  },
+  {
+   "groupId": null,
+   "artistId": null,
+   "quote": null,
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 18,
+    "capacity": 70
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "27/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "11:00",
+   "duration": 2,
+   "budget": 2,
+   "notes": "",
+   "fee": 400,
+   "createdAt": "2026-10-20",
+   "id": "cs2",
+   "region": "ca",
+   "source": "slot",
+   "venueId": "v6",
+   "category": "acoustic",
+   "title": "Sunday Folk Brunch",
+   "eventType": "restaurant",
+   "date": "2026-12-06",
+   "city": "van",
+   "address": "1120 Granville St, Vancouver",
+   "status": "open"
+  },
+  {
+   "groupId": null,
+   "artistId": "a12",
+   "quote": null,
+   "payment": null,
+   "ticketing": {
+    "on": false,
+    "price": 0,
+    "capacity": 0
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "28/10 12:00",
+     "text": {
+      "vi": "Khách gửi yêu cầu",
+      "en": "Venue sent a request"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 90,
+   "start": "11:30",
+   "duration": 2,
+   "budget": 1,
+   "notes": "Holiday standards and soul, mellow volume for brunch service.",
+   "fee": 0,
+   "createdAt": "2026-10-20",
+   "id": "cr1",
+   "region": "ca",
+   "source": "request",
+   "venueId": "v6",
+   "category": "singer",
+   "title": "Holiday Brunch Sessions",
+   "eventType": "restaurant",
+   "date": "2026-12-13",
+   "city": "van",
+   "address": "1120 Granville St, Vancouver",
+   "status": "new"
+  },
+  {
+   "groupId": "g2",
+   "artistId": "a13",
+   "quote": {
+    "price": 1500,
+    "dur": {
+     "vi": "5 giờ, full rig",
+     "en": "5 hrs, full rig"
+    },
+    "equip": "",
+    "travel": 350,
+    "overtime": 200,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": false,
+    "price": 0,
+    "capacity": 0
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "24/10 10:00",
+     "text": {
+      "vi": "Khách gửi Quick Free Quote",
+      "en": "Venue sent a Quick Free Quote"
+     }
+    },
+    {
+     "at": "25/10 09:00",
+     "text": {
+      "vi": "Nghệ sĩ gửi báo giá",
+      "en": "Artist sent a quote"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 150,
+   "start": "21:00",
+   "duration": 4,
+   "budget": 3,
+   "notes": "Countdown party, dance floor from 23:00.",
+   "fee": 0,
+   "createdAt": "2026-10-20",
+   "id": "cq1",
+   "region": "ca",
+   "source": "quick",
+   "venueId": "v5",
+   "category": "dj",
+   "title": "New Year’s Eve Party",
+   "eventType": "bar",
+   "date": "2026-12-31",
+   "city": "tor",
+   "address": "214 Ossington Ave, Toronto",
+   "status": "quoted"
+  },
+  {
+   "groupId": "g2",
+   "artistId": "a12",
+   "quote": {
+    "price": 900,
+    "dur": {
+     "vi": "4 giờ, kèm band 3 người",
+     "en": "4 hrs with 3-piece band"
+    },
+    "equip": "",
+    "travel": 400,
+    "overtime": 150,
+    "depositPct": 30,
+    "cancel": 1,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": false,
+    "price": 0,
+    "capacity": 0
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "24/10 10:00",
+     "text": {
+      "vi": "Khách gửi Quick Free Quote",
+      "en": "Venue sent a Quick Free Quote"
+     }
+    },
+    {
+     "at": "25/10 09:00",
+     "text": {
+      "vi": "Nghệ sĩ gửi báo giá",
+      "en": "Artist sent a quote"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 150,
+   "start": "21:00",
+   "duration": 4,
+   "budget": 3,
+   "notes": "Countdown party, dance floor from 23:00.",
+   "fee": 0,
+   "createdAt": "2026-10-20",
+   "id": "cq2",
+   "region": "ca",
+   "source": "quick",
+   "venueId": "v5",
+   "category": "singer",
+   "title": "New Year’s Eve Party",
+   "eventType": "bar",
+   "date": "2026-12-31",
+   "city": "tor",
+   "address": "214 Ossington Ave, Toronto",
+   "status": "quoted"
+  },
+  {
+   "groupId": null,
+   "artistId": "a15",
+   "quote": {
+    "price": 450,
+    "dur": {
+     "vi": "60 phút close-up",
+     "en": "60 min close-up"
+    },
+    "equip": "",
+    "travel": 0,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": {
+    "depositPct": 30,
+    "deposit": 135,
+    "method": "interac",
+    "paidAt": "05/10 10:00",
+    "remainingPaid": true
+   },
+   "ticketing": {
+    "on": false,
+    "price": 0,
+    "capacity": 0
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "03/10 10:00",
+     "text": {
+      "vi": "Khách gửi yêu cầu",
+      "en": "Venue sent a request"
+     }
+    },
+    {
+     "at": "17/10 21:10",
+     "text": {
+      "vi": "Show hoàn tất",
+      "en": "Show completed"
+     }
+    }
+   ],
+   "review": {
+    "rating": 5,
+    "text": "Lorenzo had the whole bar laughing. Guests still talk about the card trick.",
+    "at": "18/10"
+   },
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "20:00",
+   "duration": 1,
+   "budget": 2,
+   "notes": "",
+   "fee": 0,
+   "createdAt": "2026-10-20",
+   "id": "cr3",
+   "region": "ca",
+   "source": "request",
+   "venueId": "v5",
+   "category": "magic",
+   "title": "Halloween Magic Night",
+   "eventType": "bar",
+   "date": "2026-10-17",
+   "city": "tor",
+   "address": "214 Ossington Ave, Toronto",
+   "status": "completed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a5",
+   "quote": {
+    "price": 6000000,
+    "dur": {
+     "vi": "2 giờ",
+     "en": "2 h"
+    },
+    "equip": "",
+    "travel": 0,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 250000,
+    "capacity": 70
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "20/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    },
+    {
+     "at": "21/10 09:00",
+     "text": {
+      "vi": "Nghệ sĩ nhận show (1-click)",
+      "en": "Artist accepted the show (1-click)"
+     }
+    },
+    {
+     "at": "21/10 09:01",
+     "text": {
+      "vi": "Sự kiện mở bán vé",
+      "en": "Tickets went on sale"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "20:30",
+   "duration": 2,
+   "budget": 2,
+   "notes": "",
+   "fee": 6000000,
+   "createdAt": "2026-10-20",
+   "id": "e5",
+   "region": "vn",
+   "source": "slot",
+   "venueId": "v7",
+   "category": "band",
+   "title": "Autumn Jazz – Mây Trio",
+   "eventType": "bar",
+   "date": "2026-11-07",
+   "city": "hn",
+   "address": "27 Tràng Tiền, Hoàn Kiếm",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a7",
+   "quote": {
+    "price": 2500000,
+    "dur": {
+     "vi": "2 giờ",
+     "en": "2 h"
+    },
+    "equip": "",
+    "travel": 0,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 150000,
+    "capacity": 100
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "20/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    },
+    {
+     "at": "21/10 09:00",
+     "text": {
+      "vi": "Nghệ sĩ nhận show (1-click)",
+      "en": "Artist accepted the show (1-click)"
+     }
+    },
+    {
+     "at": "21/10 09:01",
+     "text": {
+      "vi": "Sự kiện mở bán vé",
+      "en": "Tickets went on sale"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "17:30",
+   "duration": 2,
+   "budget": 2,
+   "notes": "",
+   "fee": 2500000,
+   "createdAt": "2026-10-20",
+   "id": "e6",
+   "region": "vn",
+   "source": "slot",
+   "venueId": "v8",
+   "category": "instrument",
+   "title": "Sunset Sax tại Sơn Trà",
+   "eventType": "restaurant",
+   "date": "2026-11-08",
+   "city": "dn",
+   "address": "Võ Nguyên Giáp, Sơn Trà",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a8",
+   "quote": {
+    "price": 6000000,
+    "dur": {
+     "vi": "1 giờ",
+     "en": "1 h"
+    },
+    "equip": "",
+    "travel": 0,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 350000,
+    "capacity": 60
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "20/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    },
+    {
+     "at": "21/10 09:00",
+     "text": {
+      "vi": "Nghệ sĩ nhận show (1-click)",
+      "en": "Artist accepted the show (1-click)"
+     }
+    },
+    {
+     "at": "21/10 09:01",
+     "text": {
+      "vi": "Sự kiện mở bán vé",
+      "en": "Tickets went on sale"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "19:30",
+   "duration": 1,
+   "budget": 2,
+   "notes": "",
+   "fee": 6000000,
+   "createdAt": "2026-10-20",
+   "id": "e7",
+   "region": "vn",
+   "source": "slot",
+   "venueId": "v3",
+   "category": "magic",
+   "title": "Đêm ảo thuật Quốc Khang",
+   "eventType": "restaurant",
+   "date": "2026-11-12",
+   "city": "hcm",
+   "address": "45 Nguyễn Huệ, Quận 1",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a4",
+   "quote": {
+    "price": 2500000,
+    "dur": {
+     "vi": "2 giờ",
+     "en": "2 h"
+    },
+    "equip": "",
+    "travel": 0,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 180000,
+    "capacity": 60
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "20/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    },
+    {
+     "at": "21/10 09:00",
+     "text": {
+      "vi": "Nghệ sĩ nhận show (1-click)",
+      "en": "Artist accepted the show (1-click)"
+     }
+    },
+    {
+     "at": "21/10 09:01",
+     "text": {
+      "vi": "Sự kiện mở bán vé",
+      "en": "Tickets went on sale"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "20:00",
+   "duration": 2,
+   "budget": 2,
+   "notes": "",
+   "fee": 2500000,
+   "createdAt": "2026-10-20",
+   "id": "e8",
+   "region": "vn",
+   "source": "slot",
+   "venueId": "v7",
+   "category": "acoustic",
+   "title": "Bảo Nam Acoustic – Phố cổ",
+   "eventType": "bar",
+   "date": "2026-11-15",
+   "city": "hn",
+   "address": "27 Tràng Tiền, Hoàn Kiếm",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a9",
+   "quote": {
+    "price": 5000000,
+    "dur": {
+     "vi": "1 giờ",
+     "en": "1 h"
+    },
+    "equip": "",
+    "travel": 0,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 200000,
+    "capacity": 80
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "20/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    },
+    {
+     "at": "21/10 09:00",
+     "text": {
+      "vi": "Nghệ sĩ nhận show (1-click)",
+      "en": "Artist accepted the show (1-click)"
+     }
+    },
+    {
+     "at": "21/10 09:01",
+     "text": {
+      "vi": "Sự kiện mở bán vé",
+      "en": "Tickets went on sale"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "20:00",
+   "duration": 1,
+   "budget": 2,
+   "notes": "",
+   "fee": 5000000,
+   "createdAt": "2026-10-20",
+   "id": "e9",
+   "region": "vn",
+   "source": "slot",
+   "venueId": "v7",
+   "category": "comedy",
+   "title": "Cười cuối tuần – Đức Phong",
+   "eventType": "bar",
+   "date": "2026-11-22",
+   "city": "hn",
+   "address": "27 Tràng Tiền, Hoàn Kiếm",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a3",
+   "quote": {
+    "price": 4000000,
+    "dur": {
+     "vi": "3 giờ",
+     "en": "3 h"
+    },
+    "equip": "",
+    "travel": 0,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 200000,
+    "capacity": 150
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "20/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    },
+    {
+     "at": "21/10 09:00",
+     "text": {
+      "vi": "Nghệ sĩ nhận show (1-click)",
+      "en": "Artist accepted the show (1-click)"
+     }
+    },
+    {
+     "at": "21/10 09:01",
+     "text": {
+      "vi": "Sự kiện mở bán vé",
+      "en": "Tickets went on sale"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "21:30",
+   "duration": 3,
+   "budget": 2,
+   "notes": "",
+   "fee": 4000000,
+   "createdAt": "2026-10-20",
+   "id": "e10",
+   "region": "vn",
+   "source": "slot",
+   "venueId": "v1",
+   "category": "dj",
+   "title": "Vinahouse Saturday – DJ Kairo",
+   "eventType": "bar",
+   "date": "2026-11-28",
+   "city": "hcm",
+   "address": "12 Lê Thánh Tôn, Quận 1",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a13",
+   "quote": {
+    "price": 500,
+    "dur": {
+     "vi": "4 giờ",
+     "en": "4 h"
+    },
+    "equip": "",
+    "travel": 0,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 22,
+    "capacity": 180
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "20/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    },
+    {
+     "at": "21/10 09:00",
+     "text": {
+      "vi": "Nghệ sĩ nhận show (1-click)",
+      "en": "Artist accepted the show (1-click)"
+     }
+    },
+    {
+     "at": "21/10 09:01",
+     "text": {
+      "vi": "Sự kiện mở bán vé",
+      "en": "Tickets went on sale"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "22:00",
+   "duration": 4,
+   "budget": 2,
+   "notes": "",
+   "fee": 500,
+   "createdAt": "2026-10-20",
+   "id": "ce4",
+   "region": "ca",
+   "source": "slot",
+   "venueId": "v9",
+   "category": "dj",
+   "title": "Disco Friday – DJ Polaris",
+   "eventType": "bar",
+   "date": "2026-11-07",
+   "city": "mtl",
+   "address": "5240 Boul. Saint-Laurent, Montréal",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a16",
+   "quote": {
+    "price": 500,
+    "dur": {
+     "vi": "1 giờ",
+     "en": "1 h"
+    },
+    "equip": "",
+    "travel": 0,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 25,
+    "capacity": 120
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "20/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    },
+    {
+     "at": "21/10 09:00",
+     "text": {
+      "vi": "Nghệ sĩ nhận show (1-click)",
+      "en": "Artist accepted the show (1-click)"
+     }
+    },
+    {
+     "at": "21/10 09:01",
+     "text": {
+      "vi": "Sự kiện mở bán vé",
+      "en": "Tickets went on sale"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "20:00",
+   "duration": 1,
+   "budget": 2,
+   "notes": "",
+   "fee": 500,
+   "createdAt": "2026-10-20",
+   "id": "ce5",
+   "region": "ca",
+   "source": "slot",
+   "venueId": "v10",
+   "category": "comedy",
+   "title": "Sam Okafor – Laugh Night",
+   "eventType": "restaurant",
+   "date": "2026-11-13",
+   "city": "cal",
+   "address": "1001 17 Ave SW, Calgary",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a15",
+   "quote": {
+    "price": 450,
+    "dur": {
+     "vi": "1 giờ",
+     "en": "1 h"
+    },
+    "equip": "",
+    "travel": 0,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 28,
+    "capacity": 60
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "20/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    },
+    {
+     "at": "21/10 09:00",
+     "text": {
+      "vi": "Nghệ sĩ nhận show (1-click)",
+      "en": "Artist accepted the show (1-click)"
+     }
+    },
+    {
+     "at": "21/10 09:01",
+     "text": {
+      "vi": "Sự kiện mở bán vé",
+      "en": "Tickets went on sale"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "20:00",
+   "duration": 1,
+   "budget": 2,
+   "notes": "",
+   "fee": 450,
+   "createdAt": "2026-10-20",
+   "id": "ce6",
+   "region": "ca",
+   "source": "slot",
+   "venueId": "v5",
+   "category": "magic",
+   "title": "Magic & Cocktails – The Great Lorenzo",
+   "eventType": "bar",
+   "date": "2026-11-14",
+   "city": "tor",
+   "address": "214 Ossington Ave, Toronto",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a12",
+   "quote": {
+    "price": 650,
+    "dur": {
+     "vi": "2 giờ",
+     "en": "2 h"
+    },
+    "equip": "",
+    "travel": 0,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 32,
+    "capacity": 120
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "20/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    },
+    {
+     "at": "21/10 09:00",
+     "text": {
+      "vi": "Nghệ sĩ nhận show (1-click)",
+      "en": "Artist accepted the show (1-click)"
+     }
+    },
+    {
+     "at": "21/10 09:01",
+     "text": {
+      "vi": "Sự kiện mở bán vé",
+      "en": "Tickets went on sale"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "21:00",
+   "duration": 2,
+   "budget": 2,
+   "notes": "",
+   "fee": 650,
+   "createdAt": "2026-10-20",
+   "id": "ce7",
+   "region": "ca",
+   "source": "slot",
+   "venueId": "v9",
+   "category": "singer",
+   "title": "Maya Chen – Live in Montréal",
+   "eventType": "bar",
+   "date": "2026-11-22",
+   "city": "mtl",
+   "address": "5240 Boul. Saint-Laurent, Montréal",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": "a14",
+   "quote": {
+    "price": 350,
+    "dur": {
+     "vi": "2 giờ",
+     "en": "2 h"
+    },
+    "equip": "",
+    "travel": 0,
+    "overtime": 0,
+    "depositPct": 30,
+    "cancel": 0,
+    "terms": "",
+    "at": "27/10 09:30"
+   },
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 20,
+    "capacity": 70
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "20/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    },
+    {
+     "at": "21/10 09:00",
+     "text": {
+      "vi": "Nghệ sĩ nhận show (1-click)",
+      "en": "Artist accepted the show (1-click)"
+     }
+    },
+    {
+     "at": "21/10 09:01",
+     "text": {
+      "vi": "Sự kiện mở bán vé",
+      "en": "Tickets went on sale"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "19:00",
+   "duration": 2,
+   "budget": 2,
+   "notes": "",
+   "fee": 350,
+   "createdAt": "2026-10-20",
+   "id": "ce8",
+   "region": "ca",
+   "source": "slot",
+   "venueId": "v6",
+   "category": "acoustic",
+   "title": "Juniper & Pine – Holiday Unplugged",
+   "eventType": "restaurant",
+   "date": "2026-11-28",
+   "city": "van",
+   "address": "1120 Granville St, Vancouver",
+   "status": "confirmed"
+  },
+  {
+   "groupId": null,
+   "artistId": null,
+   "quote": null,
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 200000,
+    "capacity": 150
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "28/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "18:00",
+   "duration": 3,
+   "budget": 2,
+   "notes": "",
+   "fee": 7000000,
+   "createdAt": "2026-10-20",
+   "id": "s4",
+   "region": "vn",
+   "source": "slot",
+   "venueId": "v8",
+   "category": "band",
+   "title": "Beach Party cuối tuần",
+   "eventType": "restaurant",
+   "date": "2026-11-21",
+   "city": "dn",
+   "address": "Võ Nguyên Giáp, Sơn Trà",
+   "status": "open"
+  },
+  {
+   "groupId": null,
+   "artistId": null,
+   "quote": null,
+   "payment": null,
+   "ticketing": {
+    "on": true,
+    "price": 20,
+    "capacity": 120
+   },
+   "messages": [],
+   "history": [
+    {
+     "at": "28/10 10:00",
+     "text": {
+      "vi": "Nhà hàng mở slot",
+      "en": "Venue opened a slot"
+     }
+    }
+   ],
+   "review": null,
+   "clientReview": null,
+   "flagged": false,
+   "equipment": [
+    "speakers",
+    "mic"
+   ],
+   "guests": 80,
+   "start": "20:00",
+   "duration": 3,
+   "budget": 2,
+   "notes": "",
+   "fee": 700,
+   "createdAt": "2026-10-20",
+   "id": "cs3",
+   "region": "ca",
+   "source": "slot",
+   "venueId": "v10",
+   "category": "band",
+   "title": "Friday Country & Rock",
+   "eventType": "restaurant",
+   "date": "2026-11-20",
+   "city": "cal",
+   "address": "1001 17 Ave SW, Calgary",
+   "status": "open"
+  }
+ ],
+ "tickets": [
+  {
+   "id": "t1",
+   "bookingId": "e1",
+   "code": "LS-E1037",
+   "name": "Nguyễn An",
+   "email": "an.nguyen@gmail.com",
+   "qty": 2,
+   "total": 400000,
+   "method": "momo",
+   "at": "20/10 21:14",
+   "checkedIn": false
+  },
+  {
+   "id": "t2",
+   "bookingId": "e1",
+   "code": "LS-E1074",
+   "name": "Trần Bảo",
+   "email": "bao.tran@gmail.com",
+   "qty": 1,
+   "total": 200000,
+   "method": "card",
+   "at": "21/10 09:02",
+   "checkedIn": false
+  },
+  {
+   "id": "t3",
+   "bookingId": "e1",
+   "code": "LS-E1111",
+   "name": "Lý Minh Châu",
+   "email": "chau.ly@yahoo.com",
+   "qty": 4,
+   "total": 800000,
+   "method": "bank",
+   "at": "23/10 19:40",
+   "checkedIn": false
+  },
+  {
+   "id": "t4",
+   "bookingId": "e1",
+   "code": "LS-E1148",
+   "name": "Phạm Duy",
+   "email": "duy.pham@gmail.com",
+   "qty": 2,
+   "total": 400000,
+   "method": "card",
+   "at": "26/10 12:11",
+   "checkedIn": false
+  },
+  {
+   "id": "t5",
+   "bookingId": "e2",
+   "code": "LS-E2185",
+   "name": "Hồ Gia Hân",
+   "email": "han.ho@gmail.com",
+   "qty": 2,
+   "total": 300000,
+   "method": "momo",
+   "at": "22/10 20:00",
+   "checkedIn": false
+  },
+  {
+   "id": "t6",
+   "bookingId": "e2",
+   "code": "LS-E2222",
+   "name": "Đặng Khoa",
+   "email": "khoa.dang@gmail.com",
+   "qty": 3,
+   "total": 450000,
+   "method": "card",
+   "at": "27/10 08:45",
+   "checkedIn": false
+  },
+  {
+   "id": "t7",
+   "bookingId": "e3",
+   "code": "LS-E3259",
+   "name": "Mai Linh",
+   "email": "linh.mai@gmail.com",
+   "qty": 4,
+   "total": 1000000,
+   "method": "bank",
+   "at": "24/10 18:30",
+   "checkedIn": false
+  },
+  {
+   "id": "t8",
+   "bookingId": "e3",
+   "code": "LS-E3296",
+   "name": "Vũ Hoàng",
+   "email": "hoang.vu@gmail.com",
+   "qty": 2,
+   "total": 500000,
+   "method": "card",
+   "at": "25/10 22:10",
+   "checkedIn": false
+  },
+  {
+   "id": "t9",
+   "bookingId": "e3",
+   "code": "LS-E3333",
+   "name": "Kim Ngân",
+   "email": "ngan.kim@gmail.com",
+   "qty": 6,
+   "total": 1500000,
+   "method": "momo",
+   "at": "28/10 10:05",
+   "checkedIn": false
+  },
+  {
+   "id": "t10",
+   "bookingId": "e4",
+   "code": "LS-E4370",
+   "name": "Trịnh Mỹ",
+   "email": "my.trinh@gmail.com",
+   "qty": 2,
+   "total": 600000,
+   "method": "card",
+   "at": "27/10 11:30",
+   "checkedIn": false
+  },
+  {
+   "id": "t11",
+   "bookingId": "ce1",
+   "code": "LS-CE1407",
+   "name": "Emily Tran",
+   "email": "emily.tran@gmail.com",
+   "qty": 2,
+   "total": 50,
+   "method": "card",
+   "at": "21/10 19:05",
+   "checkedIn": false
+  },
+  {
+   "id": "t12",
+   "bookingId": "ce1",
+   "code": "LS-CE1444",
+   "name": "Marcus Lee",
+   "email": "marcus.lee@outlook.com",
+   "qty": 4,
+   "total": 100,
+   "method": "interac",
+   "at": "24/10 12:40",
+   "checkedIn": false
+  },
+  {
+   "id": "t13",
+   "bookingId": "ce1",
+   "code": "LS-CE1481",
+   "name": "Sophie Martin",
+   "email": "sophie.m@gmail.com",
+   "qty": 2,
+   "total": 50,
+   "method": "paypal",
+   "at": "27/10 20:15",
+   "checkedIn": false
+  },
+  {
+   "id": "t14",
+   "bookingId": "ce2",
+   "code": "LS-CE2518",
+   "name": "Liam Walsh",
+   "email": "liam.walsh@gmail.com",
+   "qty": 3,
+   "total": 60,
+   "method": "card",
+   "at": "23/10 09:30",
+   "checkedIn": false
+  },
+  {
+   "id": "t15",
+   "bookingId": "ce2",
+   "code": "LS-CE2555",
+   "name": "Hannah Kim",
+   "email": "hannah.kim@gmail.com",
+   "qty": 2,
+   "total": 40,
+   "method": "interac",
+   "at": "26/10 17:55",
+   "checkedIn": false
+  },
+  {
+   "id": "t16",
+   "bookingId": "ce3",
+   "code": "LS-CE3592",
+   "name": "Noah Patel",
+   "email": "noah.patel@gmail.com",
+   "qty": 2,
+   "total": 60,
+   "method": "card",
+   "at": "28/10 13:20",
+   "checkedIn": false
+  },
+  {
+   "id": "t17",
+   "bookingId": "e5",
+   "code": "LS-E5629",
+   "name": "Đỗ Thu Trang",
+   "email": "trang.do@gmail.com",
+   "qty": 2,
+   "total": 500000,
+   "method": "momo",
+   "at": "25/10 20:10",
+   "checkedIn": false
+  },
+  {
+   "id": "t18",
+   "bookingId": "e5",
+   "code": "LS-E5666",
+   "name": "Lê Hoàng Nam",
+   "email": "nam.le@gmail.com",
+   "qty": 3,
+   "total": 750000,
+   "method": "card",
+   "at": "27/10 08:30",
+   "checkedIn": false
+  },
+  {
+   "id": "t19",
+   "bookingId": "e6",
+   "code": "LS-E6703",
+   "name": "Phan Gia Huy",
+   "email": "huy.phan@gmail.com",
+   "qty": 4,
+   "total": 600000,
+   "method": "bank",
+   "at": "26/10 15:00",
+   "checkedIn": false
+  },
+  {
+   "id": "t20",
+   "bookingId": "e7",
+   "code": "LS-E7740",
+   "name": "Ngô Bảo Châu",
+   "email": "chau.ngo@gmail.com",
+   "qty": 2,
+   "total": 700000,
+   "method": "card",
+   "at": "27/10 21:00",
+   "checkedIn": false
+  },
+  {
+   "id": "t21",
+   "bookingId": "e8",
+   "code": "LS-E8777",
+   "name": "Vũ Minh Anh",
+   "email": "anh.vu@gmail.com",
+   "qty": 2,
+   "total": 360000,
+   "method": "momo",
+   "at": "28/10 09:15",
+   "checkedIn": false
+  },
+  {
+   "id": "t22",
+   "bookingId": "e9",
+   "code": "LS-E9814",
+   "name": "Trần Đức",
+   "email": "duc.tran@gmail.com",
+   "qty": 5,
+   "total": 1000000,
+   "method": "card",
+   "at": "28/10 12:40",
+   "checkedIn": false
+  },
+  {
+   "id": "t23",
+   "bookingId": "e10",
+   "code": "LS-E10851",
+   "name": "Lâm Khánh",
+   "email": "khanh.lam@gmail.com",
+   "qty": 6,
+   "total": 1200000,
+   "method": "momo",
+   "at": "28/10 22:00",
+   "checkedIn": false
+  },
+  {
+   "id": "t24",
+   "bookingId": "ce4",
+   "code": "LS-CE4888",
+   "name": "Julien Tremblay",
+   "email": "julien.t@gmail.com",
+   "qty": 4,
+   "total": 88,
+   "method": "card",
+   "at": "24/10 23:00",
+   "checkedIn": false
+  },
+  {
+   "id": "t25",
+   "bookingId": "ce4",
+   "code": "LS-CE4925",
+   "name": "Amélie Gagnon",
+   "email": "amelie.g@gmail.com",
+   "qty": 2,
+   "total": 44,
+   "method": "paypal",
+   "at": "27/10 18:20",
+   "checkedIn": false
+  },
+  {
+   "id": "t26",
+   "bookingId": "ce5",
+   "code": "LS-CE5962",
+   "name": "Josh Wright",
+   "email": "josh.w@gmail.com",
+   "qty": 3,
+   "total": 75,
+   "method": "interac",
+   "at": "26/10 19:00",
+   "checkedIn": false
+  },
+  {
+   "id": "t27",
+   "bookingId": "ce6",
+   "code": "LS-CE6999",
+   "name": "Priya Shah",
+   "email": "priya.s@gmail.com",
+   "qty": 2,
+   "total": 56,
+   "method": "card",
+   "at": "27/10 10:10",
+   "checkedIn": false
+  },
+  {
+   "id": "t28",
+   "bookingId": "ce7",
+   "code": "LS-CE7036",
+   "name": "Olivier Bouchard",
+   "email": "olivier.b@gmail.com",
+   "qty": 2,
+   "total": 64,
+   "method": "card",
+   "at": "28/10 20:30",
+   "checkedIn": false
+  },
+  {
+   "id": "t29",
+   "bookingId": "ce8",
+   "code": "LS-CE8073",
+   "name": "Ava Thompson",
+   "email": "ava.t@gmail.com",
+   "qty": 4,
+   "total": 80,
+   "method": "interac",
+   "at": "28/10 11:45",
+   "checkedIn": false
+  }
+ ],
+ "reviews": [
+  {
+   "id": "r1",
+   "artistId": "a1",
+   "author": "Lê Minh Quân · The Jazz Corner",
+   "rating": 5,
+   "text": "Khách ở lại lâu hơn hẳn mọi tối thứ Sáu. Thảo Vy rất chuyên nghiệp, đúng giờ.",
+   "at": "11/10/2026",
+   "event": "bar"
+  },
+  {
+   "id": "r2",
+   "artistId": "a1",
+   "author": "Nguyễn Hoàng · Tiệc cưới Riverside",
+   "rating": 5,
+   "text": "Giọng hát ấm, chọn bài rất hợp không khí tiệc cưới.",
+   "at": "21/09/2026",
+   "event": "wedding"
+  },
+  {
+   "id": "r3",
+   "artistId": "a1",
+   "author": "Võ Thanh Tâm · Saigon Acoustic",
+   "rating": 4,
+   "text": "Hát hay, mong set đầu có thêm vài bài sôi động hơn.",
+   "at": "02/09/2026",
+   "event": "restaurant"
+  },
+  {
+   "id": "r4",
+   "artistId": "a2",
+   "author": "Bùi Tuấn · Công ty Minh Phát",
+   "rating": 5,
+   "text": "Band chơi bùng nổ, tự lo âm thanh nên BTC rất nhẹ việc.",
+   "at": "15/10/2026",
+   "event": "corporate"
+  },
+  {
+   "id": "r5",
+   "artistId": "a3",
+   "author": "Trần Thu Hà · Nhà hàng Mộc Lan",
+   "rating": 5,
+   "text": "Kairo đọc khách rất tốt, phần hoá trang cực vui. Sẽ book lại dịp Noel.",
+   "at": "19/10/2026",
+   "event": "bar"
+  },
+  {
+   "id": "r6",
+   "artistId": "a4",
+   "author": "Vũ Lan · Cafe Phố Cổ",
+   "rating": 5,
+   "text": "Hai bạn hát mộc rất tình, khách gọi bài liên tục.",
+   "at": "12/10/2026",
+   "event": "restaurant"
+  },
+  {
+   "id": "r7",
+   "artistId": "a5",
+   "author": "Phạm Ngọc Anh · Hoa Sen Events",
+   "rating": 5,
+   "text": "Khách nước ngoài trong gala rất thích phần bossa nova nhạc Việt.",
+   "at": "05/10/2026",
+   "event": "corporate"
+  },
+  {
+   "id": "r8",
+   "artistId": "a6",
+   "author": "Hồ Thanh · Nhà hàng tiệc Phú Nhuận",
+   "rating": 5,
+   "text": "Hát bolero mùi, các cô chú dự tiệc mừng thọ rất vui.",
+   "at": "28/09/2026",
+   "event": "birthday"
+  },
+  {
+   "id": "r9",
+   "artistId": "a7",
+   "author": "Lý Quỳnh · Resort An Bàng",
+   "rating": 5,
+   "text": "Tiếng sax lúc hoàng hôn là điểm nhấn của lễ cưới.",
+   "at": "20/09/2026",
+   "event": "wedding"
+  },
+  {
+   "id": "r10",
+   "artistId": "a8",
+   "author": "Phạm Ngọc Anh · Hoa Sen Events",
+   "rating": 5,
+   "text": "Màn mentalism với CEO khiến cả hội trường đứng dậy vỗ tay.",
+   "at": "14/10/2026",
+   "event": "corporate"
+  },
+  {
+   "id": "r11",
+   "artistId": "a10",
+   "author": "Mai Phương · TTTM Vạn Hạnh",
+   "rating": 4,
+   "text": "Tiết mục mở màn đẹp, trang phục đúng concept.",
+   "at": "01/10/2026",
+   "event": "opening"
+  },
+  {
+   "id": "r12",
+   "artistId": "a11",
+   "author": "Olivia Grant · The Maple Room",
+   "rating": 5,
+   "text": "Our busiest Thursday this year. Tight, tasteful and great with the crowd.",
+   "at": "03/10/2026",
+   "event": "bar"
+  },
+  {
+   "id": "r13",
+   "artistId": "a12",
+   "author": "Daniel Park · Granville Social",
+   "rating": 5,
+   "text": "Maya’s soul set filled the room. Guests asked when she’s back.",
+   "at": "27/09/2026",
+   "event": "restaurant"
+  },
+  {
+   "id": "r14",
+   "artistId": "a13",
+   "author": "Chloé Roy · Studio Mile-End",
+   "rating": 4,
+   "text": "Great energy, dance floor full all night.",
+   "at": "12/09/2026",
+   "event": "birthday"
+  },
+  {
+   "id": "r15",
+   "artistId": "a14",
+   "author": "Rachel Singh · Wedding, Squamish",
+   "rating": 5,
+   "text": "Their harmonies during the ceremony were unforgettable.",
+   "at": "30/08/2026",
+   "event": "wedding"
+  },
+  {
+   "id": "r16",
+   "artistId": "a15",
+   "author": "Olivia Grant · The Maple Room",
+   "rating": 5,
+   "text": "Lorenzo had the whole bar laughing. Guests still talk about the card trick.",
+   "at": "18/10/2026",
+   "event": "bar"
+  }
+ ],
+ "notis": [
+  {
+   "id": "n1",
+   "to": "venue:v1",
+   "text": {
+    "vi": "4 vé mới cho “Đêm nhạc Lam Thảo Vy”",
+    "en": "4 new tickets for “Đêm nhạc Lam Thảo Vy”"
+   },
+   "ch": "Email",
+   "at": "26/10 12:11",
+   "read": false
+  },
+  {
+   "id": "n2",
+   "to": "venue:v1",
+   "text": {
+    "vi": "Bạn có 1 slot đang tìm nghệ sĩ (08/11)",
+    "en": "You have 1 slot looking for an artist (Nov 8)"
+   },
+   "ch": "App",
+   "at": "27/10 09:00",
+   "read": false
+  },
+  {
+   "id": "n3",
+   "to": "venue:v3",
+   "text": {
+    "vi": "Lam Thảo Vy đã gửi báo giá cho “Kỷ niệm 10 năm Mộc Lan”",
+    "en": "Lam Thảo Vy sent a quote for “Kỷ niệm 10 năm Mộc Lan”"
+   },
+   "ch": "Email",
+   "at": "27/10 09:30",
+   "read": false
+  },
+  {
+   "id": "n4",
+   "to": "venue:v3",
+   "text": {
+    "vi": "Hạ Vy Bolero đã gửi báo giá cho “Kỷ niệm 10 năm Mộc Lan”",
+    "en": "Hạ Vy Bolero sent a quote for “Kỷ niệm 10 năm Mộc Lan”"
+   },
+   "ch": "Email",
+   "at": "27/10 16:12",
+   "read": false
+  },
+  {
+   "id": "n5",
+   "to": "venue:v3",
+   "text": {
+    "vi": "Mời bạn đánh giá Mây Trio Jazz sau “Đêm jazz cuối tuần”",
+    "en": "Please review Mây Trio Jazz after “Đêm jazz cuối tuần”"
+   },
+   "ch": "Email",
+   "at": "25/10 09:00",
+   "read": false
+  },
+  {
+   "id": "n6",
+   "to": "artist:a1",
+   "text": {
+    "vi": "Yêu cầu mới từ The Jazz Corner: Ladies Night – 21/11",
+    "en": "New request from The Jazz Corner: Ladies Night – Nov 21"
+   },
+   "ch": "Email + SMS",
+   "at": "28/10 18:40",
+   "read": false
+  },
+  {
+   "id": "n7",
+   "to": "artist:a1",
+   "text": {
+    "vi": "3 nhà hàng đang tìm ca sĩ – xem mục Cơ hội",
+    "en": "3 venues are looking for singers – see Opportunities"
+   },
+   "ch": "App",
+   "at": "27/10 15:00",
+   "read": false
+  },
+  {
+   "id": "n8",
+   "to": "artist:a2",
+   "text": {
+    "vi": "Nhà hàng Mộc Lan đã đặt cọc – show 07/11 đã vào lịch",
+    "en": "Nhà hàng Mộc Lan paid the deposit – Nov 7 show is booked"
+   },
+   "ch": "Email + SMS",
+   "at": "24/10 15:20",
+   "read": false
+  },
+  {
+   "id": "n9",
+   "to": "admin:olive",
+   "text": {
+    "vi": "Hoa Sen Events chưa đặt cọc cho booking 05/12 sau 24 giờ",
+    "en": "Hoa Sen Events has not paid the Dec 5 deposit after 24 hours"
+   },
+   "ch": "App",
+   "at": "29/10 09:00",
+   "read": false
+  },
+  {
+   "id": "n10",
+   "to": "venue:v5",
+   "text": {
+    "vi": "DJ Polaris và Maya Chen đã báo giá cho New Year’s Eve Party",
+    "en": "DJ Polaris and Maya Chen quoted for New Year’s Eve Party"
+   },
+   "ch": "Email",
+   "at": "25/10 09:00",
+   "read": false
+  },
+  {
+   "id": "n11",
+   "to": "artist:a12",
+   "text": {
+    "vi": "Yêu cầu mới từ Granville Social: Holiday Brunch Sessions",
+    "en": "New request from Granville Social: Holiday Brunch Sessions"
+   },
+   "ch": "Email + SMS",
+   "at": "28/10 12:00",
+   "read": false
+  }
+ ],
+ "accounts": [
+  {
+   "id": "u1",
+   "email": "jazz@demo.com",
+   "role": "venue",
+   "refId": "v1"
+  },
+  {
+   "id": "u2",
+   "email": "acoustic@demo.com",
+   "role": "venue",
+   "refId": "v2"
+  },
+  {
+   "id": "u3",
+   "email": "moclan@demo.com",
+   "role": "venue",
+   "refId": "v3"
+  },
+  {
+   "id": "u4",
+   "email": "hoasen@demo.com",
+   "role": "venue",
+   "refId": "v4"
+  },
+  {
+   "id": "u5",
+   "email": "maple@demo.com",
+   "role": "venue",
+   "refId": "v5"
+  },
+  {
+   "id": "u6",
+   "email": "granville@demo.com",
+   "role": "venue",
+   "refId": "v6"
+  },
+  {
+   "id": "u7",
+   "email": "loft@demo.com",
+   "role": "venue",
+   "refId": "v7"
+  },
+  {
+   "id": "u8",
+   "email": "sontra@demo.com",
+   "role": "venue",
+   "refId": "v8"
+  },
+  {
+   "id": "u9",
+   "email": "studio@demo.com",
+   "role": "venue",
+   "refId": "v9"
+  },
+  {
+   "id": "u10",
+   "email": "stampede@demo.com",
+   "role": "venue",
+   "refId": "v10"
+  },
+  {
+   "id": "u11",
+   "email": "thaovy@demo.com",
+   "role": "artist",
+   "refId": "a1"
+  },
+  {
+   "id": "u12",
+   "email": "rooftop@demo.com",
+   "role": "artist",
+   "refId": "a2"
+  },
+  {
+   "id": "u13",
+   "email": "kairo@demo.com",
+   "role": "artist",
+   "refId": "a3"
+  },
+  {
+   "id": "u14",
+   "email": "baonam@demo.com",
+   "role": "artist",
+   "refId": "a4"
+  },
+  {
+   "id": "u15",
+   "email": "maytrio@demo.com",
+   "role": "artist",
+   "refId": "a5"
+  },
+  {
+   "id": "u16",
+   "email": "havy@demo.com",
+   "role": "artist",
+   "refId": "a6"
+  },
+  {
+   "id": "u17",
+   "email": "anhkhoa@demo.com",
+   "role": "artist",
+   "refId": "a7"
+  },
+  {
+   "id": "u18",
+   "email": "quockhang@demo.com",
+   "role": "artist",
+   "refId": "a8"
+  },
+  {
+   "id": "u19",
+   "email": "ducphong@demo.com",
+   "role": "artist",
+   "refId": "a9"
+  },
+  {
+   "id": "u20",
+   "email": "luahong@demo.com",
+   "role": "artist",
+   "refId": "a10"
+  },
+  {
+   "id": "u21",
+   "email": "northbound@demo.com",
+   "role": "artist",
+   "refId": "a11"
+  },
+  {
+   "id": "u22",
+   "email": "maya@demo.com",
+   "role": "artist",
+   "refId": "a12"
+  },
+  {
+   "id": "u23",
+   "email": "polaris@demo.com",
+   "role": "artist",
+   "refId": "a13"
+  },
+  {
+   "id": "u24",
+   "email": "juniper@demo.com",
+   "role": "artist",
+   "refId": "a14"
+  },
+  {
+   "id": "u25",
+   "email": "lorenzo@demo.com",
+   "role": "artist",
+   "refId": "a15"
+  },
+  {
+   "id": "u26",
+   "email": "sam@demo.com",
+   "role": "artist",
+   "refId": "a16"
+  },
+  {
+   "id": "u27",
+   "email": "admin@demo.com",
+   "role": "admin",
+   "refId": "olive"
+  }
+ ]
+}

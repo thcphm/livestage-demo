@@ -1,0 +1,160 @@
+@import "tailwindcss";
+
+/*
+ * Design tokens: docs/design/design-system.md ("Marquee", 2026-11-11).
+ * White paper, near-black ink, one brand colour (evergreen) for actions, and a quiet brass tint for dates and small labels.
+ * Token names from the earlier palette are kept so pages need no renaming:
+ * `navy*` is the dark evergreen band colour, `gold*` is the brass tint.
+ * Light by default; `data-theme="dark"` on <html> (header toggle) swaps the same tokens for a dark set.
+ * A `data-theme="light"` wrapper forces light inside a dark page (the widget embedded in a restaurant's site).
+ */
+:root, [data-theme="light"] {
+  --bg: #ffffff; --surface: #ffffff; --surface2: #f1f3f2; --line: #dadfdc;
+  --ink: #14171a; --muted: #5b6462;
+  --accent: #0f5b45; --accent-soft: #e3efe9; --accent-ink: #0b4735; --onaccent: #ffffff;
+  --navy: #0a2e24; --navy2: #123d31; --onnavy: #f1f5f3; --onnavy-muted: #a9c0b8;
+  --gold: #f1dea2; --gold-soft: #faf3dc;
+  --ok: #0f6b4f; --ok-soft: #e3efe9; --warn: #855600; --warn-soft: #fbefd0;
+  --bad: #b3261e; --bad-soft: #f9e4e2; --info: #1f55a8; --info-soft: #e4ecf8;
+  --stage: #0a2e24; --stage-ink: #f1f5f3; --stage-muted: #a9c0b8;
+  --top-performer: #f1dea2;
+  color-scheme: light;
+}
+
+/* Dark set: same roles, tuned for contrast on a near-black green-grey. Text on `--gold` stays `--ink`. */
+[data-theme="dark"] {
+  --bg: #0f1312; --surface: #151a19; --surface2: #1c2321; --line: #2b3431;
+  --ink: #edf1ef; --muted: #9ba8a3;
+  --accent: #46b189; --accent-soft: #14302a; --accent-ink: #5cc59d; --onaccent: #06150f;
+  --navy: #0a1c17; --navy2: #143329; --onnavy: #f1f5f3; --onnavy-muted: #a9c0b8;
+  --gold: #4a4018; --gold-soft: #2b2610;
+  --ok: #4fbf98; --ok-soft: #12302a; --warn: #e2b558; --warn-soft: #33290f;
+  --bad: #ff8a80; --bad-soft: #3a1614; --info: #7fb0ff; --info-soft: #14263f;
+  --stage: #0a1c17; --stage-ink: #f1f5f3; --stage-muted: #a9c0b8;
+  --top-performer: #4a4018;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface2: var(--surface2);
+  --color-line: var(--line);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accentsoft: var(--accent-soft);
+  --color-accentink: var(--accent-ink);
+  --color-onaccent: var(--onaccent);
+  --color-navy: var(--navy);
+  --color-navy2: var(--navy2);
+  --color-onnavy: var(--onnavy);
+  --color-onnavymuted: var(--onnavy-muted);
+  --color-gold: var(--gold);
+  --color-goldsoft: var(--gold-soft);
+  --color-ok: var(--ok);
+  --color-oksoft: var(--ok-soft);
+  --color-warn: var(--warn);
+  --color-warnsoft: var(--warn-soft);
+  --color-bad: var(--bad);
+  --color-badsoft: var(--bad-soft);
+  --color-info: var(--info);
+  --color-infosoft: var(--info-soft);
+  --color-stage: var(--stage);
+  --color-stageink: var(--stage-ink);
+  --color-stagemuted: var(--stage-muted);
+  --color-topperformer: var(--top-performer);
+
+  --font-display: var(--font-big-shoulders), "Arial Narrow", sans-serif;
+  --font-sans: var(--font-hanken), system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: var(--font-jetbrains), ui-monospace, Menlo, monospace;
+
+  /* Small text one step up from Tailwind's defaults: 13px and 15px read better than 12px and 14px. */
+  --text-xs: 0.8125rem;
+  --text-xs--line-height: 1.5;
+  --text-sm: 0.9375rem;
+  --text-sm--line-height: 1.5;
+
+  /* Tight corners: a listing board, not a stack of soft cards. */
+  --radius-md: 4px;
+  --radius-lg: 6px;
+  --radius-xl: 6px;
+  --radius-2xl: 8px;
+
+  /* Cards are outlined, not shadowed; hover darkens the outline. Only popovers float. */
+  --shadow-card: 0 0 0 1px var(--line);
+  --shadow-lift: 0 0 0 1.5px var(--ink);
+  --shadow-sm: 0 0 0 1px rgb(20 23 26 / 0.08);
+  --shadow-lg: 0 0 0 1px var(--line), 0 12px 28px rgb(20 23 26 / 0.14);
+}
+
+html,
+body,
+[data-theme] {
+  background: var(--bg);
+  color: var(--ink);
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+@layer base {
+  h1, h2, h3 { text-wrap: balance; }
+  h1 { font-weight: 700; letter-spacing: -0.022em; line-height: 1.1; }
+}
+
+:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+input, select, textarea { font: inherit; }
+::selection { background: var(--accent-soft); color: var(--ink); }
+
+@utility wrap {
+  max-width: 1240px;
+  margin-inline: auto;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+
+@utility tnum { font-variant-numeric: tabular-nums; }
+
+/*
+ * Type scale. Headings use the body sans at restrained sizes; `display` marks names and figures.
+ * The condensed face appears in one place only: dates (`datetype`), the way a venue's bill prints them.
+ */
+@utility display { font-weight: 700; letter-spacing: -0.015em; line-height: 1.2; }
+@utility h-hero { font-weight: 700; letter-spacing: -0.028em; line-height: 1.06; font-size: clamp(34px, 4.4vw, 54px); }
+@utility h-page { font-weight: 700; letter-spacing: -0.024em; line-height: 1.12; font-size: clamp(28px, 3.2vw, 40px); }
+@utility h-sec { font-weight: 700; letter-spacing: -0.02em; line-height: 1.18; font-size: clamp(23px, 2.2vw, 29px); }
+@utility h-sub { font-weight: 700; letter-spacing: -0.015em; line-height: 1.25; font-size: 20px; }
+@utility datetype { font-family: var(--font-big-shoulders), "Arial Narrow", sans-serif; font-weight: 700; letter-spacing: 0.01em; line-height: 1; }
+
+/* Small label above a group of fields or a list; sentence case, never uppercase. */
+@utility eyebrow {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--muted);
+}
+
+/* Text link: ink with a marquee-yellow underline. */
+@utility link-mark {
+  font-weight: 600;
+  border-bottom: 1.5px solid var(--accent);
+  padding-bottom: 1px;
+  &:hover { border-bottom-color: var(--ink); }
+}
+
+/* Readable text on photos: a plain dark wash from the bottom, no glow. */
+@utility photo-fade {
+  background: linear-gradient(to top, rgb(8 20 16 / 0.86), rgb(8 20 16 / 0.2) 55%, transparent);
+}
+
+@keyframes rise { from { transform: translateY(4px); opacity: 0; } to { transform: none; opacity: 1; } }
+@utility anim-rise { animation: rise 0.15s ease-out both; }
+
+@media (prefers-reduced-motion: reduce) {
+  .anim-rise { animation: none; }
+  * { scroll-behavior: auto !important; transition: none !important; }
+}

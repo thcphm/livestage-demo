@@ -1,0 +1,70 @@
+# Ảnh minh hoạ demo
+
+Ảnh từ Unsplash (giấy phép Unsplash License, dùng miễn phí). Chỉ dùng cho bản demo – nghệ sĩ là nhân vật hư cấu, không phải người trong ảnh.
+
+| File | Nguồn |
+|---|---|
+| singer-f1.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1517230878791-4d28214057c2) |
+| singer-f2.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1522863602463-afebb8886ab2) |
+| singer-f3.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1597169428801-7c1adf2623bd) |
+| singer-f4.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1521198022873-af0f772bf653) |
+| singer-f5.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1612976023590-be5b6a14051d) |
+| singer-f6.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1520872024865-3ff2805d8bb3) |
+| singer-f7.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1549349807-4575e87c7e6a) |
+| singer-f8.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1560297035-0ed84c4175f6) |
+| singer-f9.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1748597603496-a0d58f4d7932) |
+| singer-f10.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1717278920189-f69e4697dcc1) |
+| singer-m1.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1493225457124-a3eb161ffa5f) |
+| singer-m2.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1595422656857-ced3a4a0ce25) |
+| singer-m3.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1576967402682-19976eb930f2) |
+| singer-m4.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1526218626217-dc65a29bb444) |
+| singer-m5.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1583795311768-2ef98ac78740) |
+| singer-m6.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1596807323443-a1528e2cd0ec) |
+| band-1.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1541804627596-3b5b9ef58c93) |
+| band-2.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1531971772042-d189c2021395) |
+| band-3.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1566808907623-51b8fc382454) |
+| band-4.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1710951403281-93d866a223cd) |
+| band-5.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1521337581100-8ca9a73a5f79) |
+| band-6.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1783496116757-cf1fd14a4621) |
+| band-7.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1759315895584-57f5e4133461) |
+| sax-1.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1415201364774-f6f0bb35f28f) |
+| sax-2.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1707944494732-e706d511456d) |
+| trumpet-1.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1602701522049-00d25ac583ff) |
+| dj-1.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1470225620780-dba8ba36b745) |
+| dj-2.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1541126274323-dbac58d14741) |
+| dj-3.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1516873240891-4bf014598ab4) |
+| dj-4.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1648090322527-138e464a299e) |
+| dj-5.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1496337589254-7e19d01cec44) |
+| acoustic-1.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1510915361894-db8b60106cb1) |
+| acoustic-2.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1525201548942-d8732f6617a0) |
+| acoustic-3.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1545224144-b38cd309ef69) |
+| acoustic-4.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1524650359799-842906ca1c06) |
+| acoustic-5.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1474752651386-dc296d69dc90) |
+| acoustic-6.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1460723237483-7a6dc9d0b212) |
+| violin-1.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1566913485242-694e995731b4) |
+| violin-2.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1499442711659-a9566695faed) |
+| violin-3.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1624367191723-211ad77e50c1) |
+| piano-1.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1552422535-c45813c61732) |
+| piano-2.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1452724931113-5ab6340ce080) |
+| magic-1.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1698966165570-2c1d256c596c) |
+| magic-2.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1773337237606-5e8b1fea5574) |
+| comedy-1.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1567582269459-d889621e79d1) |
+| comedy-2.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1647589047037-ba94e650388f) |
+| dance-1.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1541904845547-0eaf866de232) |
+| dance-2.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1550026593-cb89847b168d) |
+| dance-3.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1579539760267-b2e78d9d735e) |
+| venue-restaurant-1.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1709548145082-04d0cde481d4) |
+| venue-restaurant-2.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1680209668065-26985bc92268) |
+| venue-restaurant-3.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1653259038915-7cf0b7a4dd6c) |
+| venue-restaurant-4.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1551530241-1ccbaa7a9a84) |
+| venue-restaurant-5.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1778591103012-eb50e49f8ec2) |
+| venue-bar-1.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1696062985889-de626efe0148) |
+| venue-bar-2.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1696062985868-716971f4c3f0) |
+| venue-bar-3.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1763771757330-3212b518e31c) |
+| venue-bar-4.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1785038235596-3446d85979e6) |
+| venue-bar-5.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1780019678523-0a5293d896e3) |
+| venue-bar-6.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1777296205611-796a4ffcee82) |
+| event-wedding.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1648154164366-d067faecdc51) |
+| event-party.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1714972383523-7c636d2f0e9b) |
+| event-toast.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1527529482837-4698179dc6ce) |
+| hero-1.jpg | https://unsplash.com/photos/ (images.unsplash.com/photo-1759315896446-23507335bd08) |

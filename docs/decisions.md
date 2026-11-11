@@ -1,0 +1,53 @@
+# Nhật ký quyết định
+
+Mỗi dòng: ngày – quyết định – (lý do ngắn nếu có).
+
+- 2026-10-29 – Tên sản phẩm **LiveStage**, do Olive vận hành.
+- 2026-10-29 – 4 vai trò: khán giả (không tài khoản), nhà hàng, nghệ sĩ, admin Olive.
+- 2026-10-29 – 2 khu vực: Việt Nam (VND) và Canada (CAD); dữ liệu & tiền tệ tách theo khu vực.
+- 2026-10-29 – Song ngữ vi/en ngay từ đầu.
+- 2026-10-29 – 3 cách tạo booking: slot công khai, yêu cầu báo giá riêng, Quick Free Quote (≤5 nghệ sĩ).
+- 2026-10-29 – Ẩn SĐT/email 2 bên cho tới khi booking `confirmed`.
+- 2026-10-29 – Khán giả mua vé chỉ cần email, nhận mã + QR để check-in.
+- 2026-10-30 – Chuyển sang phát triển ứng dụng Next.js; demo HTML giữ làm tham chiếu giao diện, không dùng làm kiến trúc.
+- 2026-10-30 – Tech stack: Next.js 15 + TypeScript + Tailwind, next-intl (vi/en), PostgreSQL trên Supabase + Drizzle, Supabase Auth & Storage, Resend, Vercel (+ Vercel Cron); test bằng Vitest + Playwright. (đơn giản, 1 codebase, chi phí dev 0đ)
+- 2026-10-30 – Kế hoạch & lộ trình MVP 7 giai đoạn (0–6) theo `docs/mvp-plan.md`.
+- 2026-10-30 – Tiền lưu số nguyên theo đơn vị nhỏ nhất (VND: đồng, CAD: cent). (demo lưu CAD đô chẵn)
+- 2026-10-30 – Phân quyền & ẩn thông tin làm phía server; dữ liệu riêng tư tách bảng `artist_private` / `venue_private`, trả về qua serializer theo vai trò.
+- 2026-10-30 – Thanh toán qua lớp adapter; MVP dùng provider `manual`, cổng thật (đề xuất PayOS VN, Stripe CA) ở giai đoạn 6.
+- 2026-10-30 – Đăng nhập MVP: email + mật khẩu + magic link; Google sau.
+- 2026-10-30 – Web responsive + PWA nhẹ; chưa làm app native.
+- 2026-10-30 – Nghệ sĩ mới chờ admin duyệt mới hiện công khai; admin cấp huy hiệu Verified / Top Performer.
+- 2026-10-30 – Thông báo MVP: email + trong app. Media: upload ảnh, video/audio nhúng link.
+- 2026-10-30 – Tra cứu vé bằng magic link gửi email (không cho xem vé chỉ bằng cách nhập email); QR chứa token ký.
+- 2026-10-30 – Show tự chuyển `completed` bằng cron sau giờ kết thúc.
+- 2026-10-30 – Giai đoạn 0: Next.js 15.5 + React 19, Tailwind v4, next-intl v4 (URL luôn có tiền tố `/vi` `/en`, mặc định `vi`), Vitest; Node 22 LTS + pnpm 10.
+- 2026-10-30 – Khu vực (VN/CA) lưu ở cookie `ls_region`, mặc định VN; ngôn ngữ nằm trên URL. (khu vực không cần lên URL; dễ đổi sau nếu cần SEO theo khu vực)
+- 2026-10-30 – Chế độ sáng/tối theo cài đặt hệ thống (như demo), chưa có nút chuyển.
+- 2026-10-30 – Giai đoạn 1: thêm `@supabase/supabase-js`, `@supabase/ssr`, `drizzle-orm` + `postgres` (v3) + `drizzle-kit`, `zod`, `tsx`, `dotenv`, `@playwright/test`.
+- 2026-10-30 – Mọi bảng `public` bật RLS không policy; app chỉ truy cập DB phía server qua Drizzle (kết nối Transaction pooler, `prepare: false`).
+- 2026-10-30 – Ngôn ngữ mặc định tự chọn theo trình duyệt (next-intl locale detection): trình duyệt tiếng Anh → `/en`, còn lại → `/vi`.
+- 2026-10-30 – Đăng nhập / đăng ký đặt cookie khu vực theo tài khoản (như demo).
+- 2026-10-30 – Link trong email auth dùng `token_hash` qua `/api/auth/callback` (mở được trên trình duyệt khác); mẫu email song ngữ trong 1 email (`docs/auth-setup.md`).
+- 2026-10-30 – Dữ liệu riêng tư nằm ở bảng `artist_private` / `venue_private`; seed dùng `SEED_PASSWORD` thay cho mật khẩu demo `123`.
+- 2026-10-30 – (Họp) Bổ sung bắt buộc R1–R7: khách cá nhân đặt nghệ sĩ, lịch công khai / riêng, vị trí theo thời gian, thanh toán qua Olive bằng Stripe + phí nền tảng riêng từng nghệ sĩ, thẻ xem nhanh, setlist & hợp đồng, nhắn tin trên platform (`features.md` mục 8).
+- 2026-10-30 – Làm lại giao diện: nền sáng, 1 font (Be Vietnam Pro), ảnh là chính, ít chữ, phẳng; bỏ hero sân khấu/gradient (`docs/design/design-system.md`). Tham khảo GigSalad (thẻ nghệ sĩ, Quick Quote) và Gigmit (tách khu nghệ sĩ).
+- 2026-10-30 – Bản demo giới thiệu chạy ngay trong web app: `DEMO_MODE` (tự bật khi chưa có Supabase) đọc dữ liệu `src/demo/` (28 nghệ sĩ, khách cá nhân, chuyến lưu diễn), đổi vai trò ở `/demo`, thao tác lưu trong bộ nhớ server tới khi khởi động lại.
+- 2026-10-30 – Ảnh minh hoạ demo lấy từ Unsplash (giấy phép miễn phí), lưu trong `public/demo/photos/` kèm `CREDITS.md`; nghệ sĩ là nhân vật hư cấu.
+- 2026-10-30 – Thêm vai trò `client` (khách cá nhân, R1) vào enum `user_role` (migration 0001). Bảng hồ sơ khách làm cùng giai đoạn 4.
+- 2026-10-30 – Quy tắc nghiệp vụ mới viết thành hàm thuần có test trong `src/server/domain/`: `availability` (chuyến lưu diễn – trong chuyến chỉ nhận booking ở thành phố đó), `schedule` (lịch công khai: sự kiện riêng chỉ hiện "Sự kiện riêng · thành phố"), `messaging` (che SĐT/email/link trong tin nhắn tới khi chốt, không che giá tiền), `fees` (phí nền tảng theo bps + tối thiểu), `contract` (setlist từ repertoire, hợp đồng có phiên bản, đổi điều khoản phải đồng ý lại).
+- 2026-10-30 – Thêm thư viện `qrcode` (nhỏ) để tạo QR vé phía server.
+- 2026-10-30 – Giao diện lần 2 (phản hồi "đơn điệu, khô"): thêm màu thương hiệu ember #D2461F + navy #1C2541 trên nền kem, hero ảnh tràn màn hình, mảng navy cho "Sắp lưu diễn", thẻ có bóng nhẹ; tạm **chỉ giao diện sáng** (bỏ dark mode tự động) để thương hiệu nhất quán.
+- 2026-10-31 – Video demo: quay bằng Playwright (`scripts/record-demo.mjs`, phụ đề + con trỏ), lồng tiếng giọng `vi-VN-NamMinhNeural` qua gói Python `edge-tts` (`scripts/tts.py`, dịch vụ đọc của Microsoft – không chính thức, chỉ dùng cho demo nội bộ), nhạc nền tự tổng hợp bằng ffmpeg (không dùng nhạc bên ngoài), ghép MP4 bằng ffmpeg bản gyan.dev (`scripts/dub-demo.mjs`). Lời dẫn: `scripts/demo-narration.mjs`.
+- 2026-10-31 – Mặc định **tiếng Anh** (tắt tự nhận ngôn ngữ trình duyệt) và **khu vực Canada**; người dùng đổi sang tiếng Việt / Việt Nam ở header. Thay cho quyết định tự chọn ngôn ngữ theo trình duyệt ngày 2026-10-30. Video demo có 2 bản: tiếng Việt (giọng NamMinh) và tiếng Anh (giọng en-CA-LiamNeural, chạy khu vực Canada).
+- 2026-10-31 – Video gửi quản lý (`DEMO_LANG=boss`, `recordings/boss/livestage-highlights-vi.mp4`, ~3 phút): chỉ R1–R7, giao diện tiếng Anh + khu vực Canada, phụ đề và giọng tiếng Việt; từ tiếng Anh đánh dấu `[[...]]` được đọc bằng giọng en-CA-LiamNeural rồi ghép vào giọng NamMinh. Thêm booking mẫu w4 (Olivia Park – Maya Chen, tiệc cưới Toronto, tin nhắn tiếng Anh).
+- 2026-11-11 – Giao diện lần 3 (phản hồi "còn mang nét AI"): bỏ nền kem + cam đất + navy. Nền trắng, chữ đen, **một màu thương hiệu evergreen #0F5B45** (gắn với tên Olive), điểm nhấn nhỏ màu đồng nhạt #F1DEA2. Font **Hanken Grotesk** cho toàn bộ, **Big Shoulders** chỉ dùng cho ngày diễn. Thẻ không đổ bóng, góc 6px, không emoji, không mũi tên sau link, không dấu "·". Trang chủ mở bằng lịch "Trên sân khấu tuần này" thay cho ảnh phủ màu; bỏ dải số liệu to. Chi tiết: `docs/design/design-system.md`.
+- 2026-11-11 – Tính năng theo ghi chú họp 7/11 (đã có trong demo): (1) phí dịch vụ khách trả + **phụ thu thẻ tín dụng**; (2) **đơn nhóm** – đặt nhiều nghệ sĩ cho một sự kiện, mỗi nghệ sĩ báo giá và nhận cọc riêng; (3) **widget đặt bàn** nhúng vào website nhà hàng (iframe), nhà hàng xác nhận trong dashboard; (4) show **chắc chắn diễn khi bán 50% ghế**, nhà hàng **đổi nghệ sĩ thay thế** cùng loại còn trống lịch, khách giữ vé và được báo; (5) super admin đặt **% Olive thu** từ nghệ sĩ / nhà hàng / khách / thẻ / combo; (6) vé **combo ăn tối + show** bên cạnh vé chỉ xem show, hoa hồng riêng; (7) vai trò vận hành: Olive (super admin, hỗ trợ 1, hỗ trợ 2), **quản lý tuyển nghệ sĩ**, **quản lý nghệ sĩ** (một tài khoản thay mặt nhiều nghệ sĩ).
+- 2026-11-11 – Mức mặc định trong demo (chờ sếp chốt): nghệ sĩ 15%, nhà hàng 5% doanh thu vé, khách 3% phí dịch vụ, phụ thu thẻ 2,9%, combo 10%. Phụ thu thẻ tính trên (tiền hàng + phí dịch vụ). Chỉ super admin sửa được; hỗ trợ chỉ xem.
+- 2026-11-11 – Vai trò `recruiter` và `manager` hiện chỉ có ở lớp demo (`AppRole` trong `src/server/auth/access.ts`); khi làm backend thật cần thêm vào enum `role` của database và viết migration.
+- 2026-11-11 – Giao diện tối: nút trên header, nhớ bằng localStorage (`ls_theme`), mặc định sáng. Widget đặt bàn và trang nhà hàng mẫu luôn sáng.
+- 2026-11-11 – Bổ sung cho ngưỡng 50%: nhà hàng được huỷ show chưa đạt 50% tới **3 ngày trước ngày diễn** (`DECISION_DAYS`), toàn bộ vé tự hoàn; show đã đạt 50% không huỷ được. Khi show đổi nghệ sĩ, khách được hoàn vé tới trước ngày diễn 1 ngày. Mức 3 ngày là tạm đặt, chờ chốt.
+- 2026-11-11 – Đặt bàn qua widget: chỉ nhận 11:00–22:30, tối đa 40 khách mỗi khung 1 giờ (`MAX_GUESTS_PER_SLOT`); bản thật sẽ cấu hình theo từng nhà hàng.
+- 2026-11-11 – Đơn nhóm: thêm thanh toán một lần cho mọi nghệ sĩ đã gửi báo giá và hợp đồng (`payOrder`); vẫn giữ được cọc riêng từng nghệ sĩ.
+- 2026-11-11 – Database: enum `user_role` thêm `recruiter`, `manager`; `profiles.admin_level` (`super` / `support`) – migration `0002_operator_roles.sql`. Bảng booking, vé, đặt bàn vẫn thuộc giai đoạn backend tiếp theo.
+- 2026-11-11 – E2E chạy được bằng Edge có sẵn và trên bản build: `E2E_PORT=<cổng> PW_CHANNEL=msedge pnpm test:e2e`. Thêm `tests/e2e/ops.spec.ts` cho tính năng 7/11 và giao diện tối.

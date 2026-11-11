@@ -1,0 +1,35 @@
+# dependencies
+node_modules/
+.pnpm-store/
+
+# Next.js / build
+.next/
+.next-demo/
+.next-shots/
+out/
+build/
+dist/
+*.tsbuildinfo
+next-env.d.ts
+
+# env
+.env
+.env*.local
+
+# tests
+coverage/
+playwright-report/
+test-results/
+
+# misc
+.DS_Store
+Thumbs.db
+*.log
+.vercel/
+*.pem
+.pnp
+.pnp.*
+recordings/
+
+# presentation documents, shared outside the repository
+demo presentation docs/
